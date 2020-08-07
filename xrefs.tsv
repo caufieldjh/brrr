@@ -1,0 +1,362 @@
+ID	LOINC
+17-hydroxycorticosteroids-urine-male-mg/24_h	
+17-hydroxycorticosteroids-urine-male-μmol/24_h	
+17-hydroxycorticosteroids-urine-female-mg/24_h	
+17-hydroxycorticosteroids-urine-female-μmol/24_h	
+17-ketosteroids-urine-total-male-mg/24_h	12769-6
+17-ketosteroids-urine-total-male-μmol/24_h	14572-2
+17-ketosteroids-urine-total-female-mg/24_h	12769-6
+17-ketosteroids-urine-total-female-μmol/24_h	14572-2
+alanine_aminotransferase-serum-U/L	1742-6
+albumin-serum-g/dL	
+albumin-serum-g/L	
+alkaline_phosphatase-serum-p-NPP_at_30C-U/L	
+amylase-serum-U/L	1798-8
+aspartate_aminotransferase-serum-U/L	
+bands-blood-percent	26508-2
+basophils--percent	
+bicarbonate-serum-mEq/L	
+bicarbonate-serum-mmol/L	
+bilirubin-serum-total-mg/dL	
+bilirubin-serum-direct-mg/dL	
+bilirubin-serum-total-μmol/L	
+bilirubin-serum-direct-μmol/L	
+bleeding_time--minutes	
+body_mass_index--kg/m2	39156-5
+calcium-serum-mg/dL	
+calcium-serum-mmol/L	
+calcium-urine-mg/24_h	
+calcium-urine-mmol/24_h	
+cell_count-cerebrospinal_fluid-count/mm3	
+cell_count-cerebrospinal_fluid-count/L	
+chloride-serum-mEq/L	
+chloride-serum-mmol/L	
+chloride-cerebrospinal_fluid-mEq/L	
+chloride-cerebrospinal_fluid-mmol/L	
+chloride-sweat-mmol/L	
+cholesterol-serum-mg/dL	2093-3
+cholesterol-serum-mmol/L	14647-2
+cortisol-serum-0800_h-μg/dL	
+cortisol-serum-1600_h-μg/dL	
+cortisol-serum-2000_h-percent	
+cortisol-serum-0800_h-nmol/L	
+cortisol-serum-1600_h-nmol/L	
+creatine_kinase-serum-male-U/L	2157-6
+creatine_kinase-serum-female-U/L	2157-6
+creatinine-serum-mg/dL	
+creatinine-serum-μmol/L	
+creatinine_clearance-urine-male-mL/min	
+creatinine_clearance-urine-female-mL/min	
+eosinophils--percent	
+erythrocyte_count-male-count/mm3	
+erythrocyte_count-male-count/L	
+erythrocyte_count-female-count/mm3	
+erythrocyte_count-female-count/L	
+erythrocyte_sedimentation_rate-male-mm/h	
+erythrocyte_sedimentation_rate-female-mm/h	
+estriol-serum-total-in_pregnancy_(24-28_wks)-female-ng/mL	
+estriol-serum-total-in_pregnancy_(28-32_wks)-female-ng/mL	
+estriol-serum-total-in_pregnancy_(32-36_wks)-female-ng/mL	
+estriol-serum-total-in_pregnancy_(36-40_wks)-female-ng/mL	
+estriol-serum-total-in_pregnancy_(24-28_wks)-female-nmol/L	
+estriol-serum-total-in_pregnancy_(28-32_wks)-female-nmol/L	
+estriol-serum-total-in_pregnancy_(32-36_wks)-female-nmol/L	
+estriol-serum-total-in_pregnancy_(36-40_wks)-female-nmol/L	
+estriol-urine-total-in_pregnancy_(30_wks)-female-mg/24_h	
+estriol-urine-total-in_pregnancy_(30_wks)-female-μmol/24_h	
+estriol-urine-total-in_pregnancy_(35_wks)-female-mg/24_h	
+estriol-urine-total-in_pregnancy_(35_wks)-female-μmol/24_h	
+estriol-urine-total-in_pregnancy_(40_wks)-female-mg/24_h	
+estriol-urine-total-in_pregnancy_(40_wks)-female-μmol/24_h	
+ferritin-serum-female-ng/mL	
+ferritin-serum-male-ng/mL	
+ferritin-serum-female-μg/L	
+ferritin-serum-male-μg/L	
+follicle-stimulating_hormone-serum/plasma-male-mIU/mL	
+follicle-stimulating_hormone-serum/plasma-premenopause-female-mIU/mL	
+follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-mIU/mL	
+follicle-stimulating_hormone-serum/plasma-postmenopause-female-mIU/mL	
+follicle-stimulating_hormone-serum/plasma-male-U/L	
+follicle-stimulating_hormone-serum/plasma-premenopause-female-U/L	
+follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-U/L	
+follicle-stimulating_hormone-serum/plasma-postmenopause-female-U/L	
+gamma_globulin-cerebrospinal_fluid-percent	
+globulin-serum-g/dL	
+globulin-serum-g/L	
+glucose-serum-fasting-mg/dL	
+glucose-serum-fasting-mmol/L	
+glucose-serum-2h_postprandial-mg/dL	
+glucose-serum-2h_postprandial-mmol/L	
+glucose-cerebrospinal_fluid-mg/dL	
+glucose-cerebrospinal_fluid-mmol/L	
+growth_hormone-serum-fasting-ng/mL	
+growth_hormone-serum-fasting-μg/L	
+growth_hormone-serum-provocative_arginine_stimulation-ng/mL	
+growth_hormone-serum-provocative_arginine_stimulation-μg/L	
+hematocrit-blood-male-percent	20570-8
+hematocrit-blood-female-percent	20570-8
+hemoglobin-blood-male-g/dL	
+hemoglobin-blood-male-mmol/L	
+hemoglobin-blood-female-g/dL	
+hemoglobin-blood-female-mmol/L	
+hemoglobin-plasma-mg/dL	
+hemoglobin-plasma-mmol/L	
+hemoglobin_A1C--percent	
+IgA-serum-mg/dL	
+IgA-serum-g/L	
+IgE-serum-IU/mL	
+IgE-serum-kIU/L	
+IgG-serum-mg/dL	
+IgG-serum-g/L	
+IgM-serum-mg/dL	
+IgM-serum-g/L	
+iron--μg/dL	
+iron--μmol/L	
+lactate_dehydrogenase-serum-U/L	
+leukocyte_count--count/mm3	
+leukocyte_count--count/L	
+lutenizing_hormone-serum/plasma-male-mIU/mL	
+lutenizing_hormone-serum/plasma-follicular_phase-female-mIU/mL	
+lutenizing_hormone-serum/plasma-midcycle-female-mIU/mL	
+lutenizing_hormone-serum/plasma-postmenopause-female-mIU/mL	
+lutenizing_hormone-serum/plasma-male-U/L	
+lutenizing_hormone-serum/plasma-follicular_phase-female-U/L	
+lutenizing_hormone-serum/plasma-midcycle-female-U/L	
+lutenizing_hormone-serum/plasma-postmenopause-female-U/L	
+lymphocytes--percent	
+magnesium-serum-mEq/L	2601-3
+magnesium-serum-mmol/L	2601-3
+mean_corpuscular_hemoglobin--pg/cell	
+mean_corpuscular_hemoglobin--fmol/cell	
+mean_corpuscular_hemoglobin_concentration--percent_Hb/cell	
+mean_corpuscular_hemoglobin_concentration--mmol_Hb/L	
+mean_corpuscular_volume--μm3	
+mean_corpuscular_volume--fL	
+monocytes--percent	26485-3
+osmolarity-serum-mOsmol/kg_H2O	
+osmolarity-urine-mOsmol/kg_H2O	
+oxalate-urine-μg/mL	2700-3
+oxalate-urine-μmol/L	15086-2
+parathyroid_hormone-serum-N-terminal-pg/mL	
+parathyroid_hormone-serum-N-terminal-ng/L	
+partial_thromboplastin_time-activated-seconds	
+PCO2-arterial_blood-room_air-mm_Hg	
+PCO2-arterial_blood-room_air-kPa	
+pH-arterial_blood-room_air-	
+pH-arterial_blood-room_air-nmol/L	
+phosphorus-serum-mg/dL	
+phosphorus-serum-mmol/L	
+plasma_volume-male-mL/kg	
+plasma_volume-male-L/kg	
+plasma_volume-female-mL/kg	
+plasma_volume-female-L/kg	
+platelet_count-blood-count/mm3	
+platelet_count-blood-count/L	
+PO2-arterial_blood-room_air-mm_Hg	
+PO2-arterial_blood-room_air-kPa	
+potassium-serum-mEq/L	
+potassium-serum-mmol/L	
+pressure-cerebrospinal_fluid-mm_H2O	
+prolactin-serum-ng/mL	
+prolactin-serum-μg/L	
+proteins-serum-total-recumbent-g/dL	
+proteins-serum-total-recumbent-g/L	
+proteins-cerebrospinal_fluid-total-mg/dL	
+proteins-cerebrospinal_fluid-total-g/L	
+proteins-urine-total-mg/24_h	2889-4
+proteins-urine-total-g/24_h	2889-4
+prothrombin_time--seconds	
+red_cell_volume-male-mL/kg	
+red_cell_volume-male-L/kg	
+red_cell_volume-female-mL/kg	
+red_cell_volume-female-L/kg	
+reticulocyte_count--percent	
+segmented_neutrophils--percent	
+sodium-serum-mEq/L	
+sodium-serum-mmol/L	
+thrombin_time-deviation_from_control-seconds	
+thyroid-stimulating_hormone-serum-μU/mL	
+thyroid-stimulating_hormone-plasma-μU/mL	
+thyroid-stimulating_hormone-serum-mU/L	
+thyroid-stimulating_hormone-plasma-mU/L	
+thyroidal_iodine_uptake-administered_dose_at_24_h-percent	
+thyroxine-serum-μg/dL	
+thyroxine-serum-nmol/L	
+triglycerides-serum-mg/dL	
+triglycerides-serum-mmol/L	
+triiodothyronine-serum-ng/dL	
+triiodothyronine-serum-nmol/L	
+triiodothyronine-resin_uptake-percent	
+urea_nitrogen-serum-mg/dL	
+urea_nitrogen-serum-mmol/L	
+uric_acid-serum-mg/dL	
+uric_acid-serum-mmol/L	
+troponin_I-serum-ng/mL	10839-9
+myoglobin-serum-μg/L	2639-3
+myoglobin-urine-μg/L	2641-9
+brain_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-46_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-47_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-48_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-49_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-50_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-51_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-52_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-53_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-54_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-55_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-56_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-57_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-58_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-59_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-60_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-61_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-62_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-63_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-64_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-65_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-66_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-67_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-68_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-69_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-70_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-71_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-72_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-73_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-74_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-75_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-76_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-77_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-78_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-79_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-80_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-81_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-82_years_old-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-83_years_old_or_older-male-pg/mL	30934-4
+brain_natriuretic_peptide-serum-45_years_old_or_younger-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-46_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-47_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-48_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-49_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-50_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-51_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-52_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-53_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-54_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-55_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-56_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-57_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-58_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-59_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-60_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-61_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-62_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-63_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-64_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-65_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-66_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-67_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-68_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-69_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-70_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-71_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-72_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-73_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-74_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-75_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-76_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-77_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-78_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-79_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-80_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-81_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-82_years_old-female-pg/mL	30934-4
+brain_natriuretic_peptide-serum-83_years_old_or_older-female-pg/mL	30934-4
+N-terminal_pro_b-type_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-46_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-47_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-48_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-49_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-50_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-51_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-52_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-53_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-54_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-55_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-56_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-57_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-58_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-59_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-60_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-61_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-62_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-63_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-64_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-65_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-66_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-67_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-68_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-69_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-70_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-71_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-72_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-73_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-74_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-75_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-76_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-77_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-78_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-79_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-80_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-81_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-82_years_old-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-83_years_old_or_older-male-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-46_years_old_or_younger-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-47_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-48_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-49_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-50_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-51_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-52_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-53_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-54_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-55_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-56_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-57_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-58_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-59_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-60_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-61_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-62_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-63_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-64_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-65_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-66_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-67_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-68_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-69_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-70_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-71_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-72_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-73_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-74_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-75_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-76_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-77_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-78_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-79_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-80_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-81_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-82_years_old-female-pg/mL	83107-3
+N-terminal_pro_b-type_natriuretic_peptide-serum-83_years_old_or_older-female-pg/mL	83107-3
+high-sensitivity_C-reactive_protein-serum-mg/L	30522-7
+lipoprotein_(a)-serum-fasting-mg/dL	10835-7
+apolipoprotein_B-serum-fasting-mg/dL	1884-6
+heart_rate-resting-bpm	8867-4
+respiratory_rate-resting-breaths/min	9279-1
+systolic_blood_pressure-resting-mm_Hg	8480-6
+diastolic_blood_pressure-resting-mm_Hg	8462-4
+mean_blood_pressure-resting-mm_Hg	8478-0
+body_temperature-resting-°C	8310-5
+body_height-body-cm	8302-2
+body_weight-body-kg	3141-9

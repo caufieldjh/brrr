@@ -5,22 +5,28 @@ alanine aminotransferase	ALT
 albumin	
 alkaline phosphatase	
 amylase	
+apolipoprotein B	ApoB
 aspartate aminotransferase	AST
 bands	N-bands, PMN, PNM
 basophils	
 bicarbonate	HCO3-
-bilirubin	
+bilirubin	Bil
 bleeding time	
+body height	height
 body mass index	BMI
-calcium	Ca2+
+body temperature	
+body weight	weight
+brain natriuretic peptide	BNP, B-Type Natriuretic Peptide
+calcium	Ca2+, Ca
 cell count	
 chloride	Cl-
 cholesterol	
 cortisol	
 creatine kinase	CK
-creatinine	
+creatinine	Cr
 creatinine clearance	
-eosinophils	
+diastolic blood pressure	DBP
+eosinophils	EOS
 erythrocyte count	
 erythrocyte sedimentation rate	ESR
 estriol	
@@ -28,64 +34,58 @@ ferritin
 follicle-stimulating hormone	FSH
 gamma globulin	
 globulin	
-glucose	
+glucose	FBS
 growth hormone	
-hematocrit	Hct, Crit, PCV
-hemoglobin	
-hemoglobin A1C	
+heart rate	
+hematocrit	Hct, Crit, HCT, PCV
+hemoglobin	HGB
+hemoglobin A1C	HbA1c, A1c
+high-sensitivity C-reactive protein	hs-CRP, hsCRP, cardiac CRP
 IgA	
 IgE	
 IgG	
 IgM	
-iron	
-lactate dehydrogenase	
+iron	Fe
+lactate dehydrogenase	LD, LDH
 leukocyte count	
-lutenizing hormone	
+lipoprotein (a)	Lpa, Lp(a)
+lutenizing hormone	LH
 lymphocytes	
-magnesium	Mg2+
+magnesium	Mg2+, Mg
+mean blood pressure	BP, MBP
 mean corpuscular hemoglobin	
 mean corpuscular hemoglobin concentration	
 mean corpuscular volume	
 monocytes	Mono
+myoglobin	
+N-terminal pro b-type natriuretic peptide	NT-proBNP
 osmolarity	
 oxalate	Oxal
-parathyroid hormone	
-partial thromboplastin time	
+parathyroid hormone	PTH
+partial thromboplastin time	PTT
 PCO2	
 pH	
-phosphorus	
+phosphorus	PO4
 plasma volume	
-platelet count	
+platelet count	PLT, PLT Ct
 PO2	
 potassium	K+
 pressure	
-prolactin	hPRL
+prolactin	hPRL, PRL
 proteins	
 prothrombin time	
 red cell volume	
+respiratory rate	
 reticulocyte count	
 segmented neutrophils	
-sodium	Na+
-thrombin time	
+sodium	Na+, Na, NA
+systolic blood pressure	SBP
+thrombin time	TT
 thyroid-stimulating hormone	TSH
 thyroidal iodine uptake	123I
 thyroxine	T4
 triglycerides	
 triiodothyronine	T3
-urea nitrogen	
-uric acid	
 troponin I	TnI
-myoglobin	
-brain natriuretic peptide	BNP, B-Type Natriuretic Peptide
-N-terminal pro b-type natriuretic peptide	NT-proBNP
-high-sensitivity C-reactive protein	hs-CRP, hsCRP, cardiac CRP
-lipoprotein (a)	Lpa, Lp(a)
-apolipoprotein B	ApoB
-heart rate	
-respiratory rate	
-systolic blood pressure	SBP
-diastolic blood pressure	DBP
-mean blood pressure	BP, MBP
-body temperature	
-body height	height
-body weight	weight
+urea nitrogen	BUN
+uric acid	

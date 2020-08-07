@@ -1,0 +1,14 @@
+Tables	Value	Description
+Measurements, Xrefs	ID	A unique identifier representing a test/measurement, its conditions, and its units.
+Measurements, Abbreviations	Measurement	The name of a diagnostic test or laboratory measurement.
+Measurements	Sample Type	The material used from a patient's body to run a particular test, e.g., serum. One test or measurement may have multiple sample types, each with its own entry.  Environment conditions, such as room air, are also included here. Some tests do not involve a sample type and are marked with N/A for this value.
+Measurements	Category	A description of a set of tests or measurements, e.g., IgA, IgE, and IgM are all part of lab values for immunoglobulins. May be N/A if no category exists for this test.
+Measurements	Sex Specific	If the reference range for this measurement is sex-specific, the corresponding sex is indicated here (i.e., Male or Female). For tests without sex specificity this value is N/A.
+Measurements	Reference Units	Units for the reference range.
+Measurements	Reference Low	The low bound of a reference range for the results of this measurement. May be N/A if low bound is not relevant but expected to be non-zero.
+Measurements	Low Phenotype	The Human Phenotype Ontology ID of the condition experienced by a patient when values exceed the stated Reference Low. May be N/A if no specific term correlating with low values is known.
+Measurements	Reference High	The high bound of a reference range for the results of this measurement. May be N/A if high bound is not relevant but expected to be non-zero.
+Measurements	High Phenotype	The Human Phenotype Ontology ID of the condition experienced by a patient when values exceed the stated Reference High. May be N/A if no specific term correlating with high values is known.
+Measurements	Source	The original source(s) or citation(s) for the data provided.
+Abbreviations	Abbreviations	Comma-delimited list of abbreviations for the given test/measurement.
+Xrefs	LOINC	Identifier for the test or measurement in LOINC. LOINC specifies units and codes therefore apply to IDs, not test/measurement names. Searchable at https://loinc.org/

@@ -361,3 +361,9 @@ body_temperature-resting-°C	body temperature	resting		N/A	°C	35	HP:0002045	38	
 body_height-body-cm	body height	body		N/A	cm	N/A	N/A	N/A	N/A	
 body_weight-body-kg	body weight	body		N/A	kg	N/A	N/A	N/A	N/A	
 zinc_protoporphyrin-blood-mcmol/mol_heme	zinc protoporphyrin	blood		N/A	mcmol/mol heme	N/A		70		Lab Tests Online, Mayo Clinic Labs
+prostate_specific_antigen-serum-39_years_old_or_younger-male-ng/mL	prostate specific antigen	serum, 39 years old or younger		male	ng/mL	N/A		2		Mayo Clinic Labs
+prostate_specific_antigen-serum-40_to_49_years_old-male-ng/mL	prostate specific antigen	serum, 40 to 49 years old		male	ng/mL	N/A		2.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-50_to_59_years_old-male-ng/mL	prostate specific antigen	serum, 50 to 59 years old		male	ng/mL	N/A		3.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-60_to_69_years_old-male-ng/mL	prostate specific antigen	serum, 60 to 69 years old		male	ng/mL	N/A		4.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-70_to_79_years_old-male-ng/mL	prostate specific antigen	serum, 70 to 79 years old		male	ng/mL	N/A		6.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-80_years_old_or_older-male-ng/mL	prostate specific antigen	serum, 80 years old or older		male	ng/mL	N/A		7.2		Mayo Clinic Labs

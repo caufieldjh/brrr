@@ -360,3 +360,4 @@ mean_blood_pressure-resting-mm_Hg	mean blood pressure	resting		N/A	mm Hg	70	HP:0
 body_temperature-resting-°C	body temperature	resting		N/A	°C	35	HP:0002045	38	HP:0001945	HPO, MedlinePlus
 body_height-body-cm	body height	body		N/A	cm	N/A	N/A	N/A	N/A	
 body_weight-body-kg	body weight	body		N/A	kg	N/A	N/A	N/A	N/A	
+zinc_protoporphyrin-blood-mcmol/mol_heme	zinc protoporphyrin	blood		N/A	mcmol/mol heme	N/A		70		Lab Tests Online, Mayo Clinic Labs

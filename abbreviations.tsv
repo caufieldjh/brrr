@@ -86,7 +86,7 @@ thyroidal iodine uptake	123I
 thyroxine	T4
 triglycerides	Trig, TG, TAG
 triiodothyronine	T3
-troponin I	TnI
+troponin I	TnI, cTnI
 urea nitrogen	BUN
 uric acid	Urate
 zinc protoporphyrin	ZP, ZPP, FEP
@@ -95,3 +95,14 @@ ethanolamine	EA
 erythropoietin	
 d-dimer	
 cyanide	
+aortic root diameter	AoR
+mid-descending aorta diameter	AoD
+diaphragmatic aorta diameter	
+non-HDL cholesterol	
+LDL cholesterol	
+HDL cholesterol	
+blood urea nitrogen	BUN
+tropomyosin	
+left ventricular ejection fraction	LVEF, EF
+homocitrulline	
+troponin T	TnT, cTnT

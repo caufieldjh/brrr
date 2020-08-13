@@ -195,84 +195,84 @@ uric_acid-serum-mmol/L	uric acid	serum		N/A	mmol/L	0.18	HP:0003537	0.48	HP:00021
 troponin_I-serum-ng/mL	troponin I	serum		N/A	ng/mL	N/A		0.04	HP:0410173	Lab Tests Online, Mayo Clinic Labs
 myoglobin-serum-μg/L	myoglobin	serum		N/A	μg/L	N/A		90		Lab Tests Online, Mayo Clinic Labs
 myoglobin-urine-μg/L	myoglobin	urine		N/A	μg/L	N/A		65	HP:0002913	Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	brain natriuretic peptide	serum, 45 years old or younger		male	pg/mL	N/A		35		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-46_years_old-male-pg/mL	brain natriuretic peptide	serum, 46 years old		male	pg/mL	N/A		36		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-47_years_old-male-pg/mL	brain natriuretic peptide	serum, 47 years old		male	pg/mL	N/A		37		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-48_years_old-male-pg/mL	brain natriuretic peptide	serum, 48 years old		male	pg/mL	N/A		38		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-49_years_old-male-pg/mL	brain natriuretic peptide	serum, 49 years old		male	pg/mL	N/A		39		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-50_years_old-male-pg/mL	brain natriuretic peptide	serum, 50 years old		male	pg/mL	N/A		40		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-51_years_old-male-pg/mL	brain natriuretic peptide	serum, 51 years old		male	pg/mL	N/A		41		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-52_years_old-male-pg/mL	brain natriuretic peptide	serum, 52 years old		male	pg/mL	N/A		42		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-53_years_old-male-pg/mL	brain natriuretic peptide	serum, 53 years old		male	pg/mL	N/A		43		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-54_years_old-male-pg/mL	brain natriuretic peptide	serum, 54 years old		male	pg/mL	N/A		45		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-55_years_old-male-pg/mL	brain natriuretic peptide	serum, 55 years old		male	pg/mL	N/A		46		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-56_years_old-male-pg/mL	brain natriuretic peptide	serum, 56 years old		male	pg/mL	N/A		47		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-57_years_old-male-pg/mL	brain natriuretic peptide	serum, 57 years old		male	pg/mL	N/A		48		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-58_years_old-male-pg/mL	brain natriuretic peptide	serum, 58 years old		male	pg/mL	N/A		49		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-59_years_old-male-pg/mL	brain natriuretic peptide	serum, 59 years old		male	pg/mL	N/A		51		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-60_years_old-male-pg/mL	brain natriuretic peptide	serum, 60 years old		male	pg/mL	N/A		52		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-61_years_old-male-pg/mL	brain natriuretic peptide	serum, 61 years old		male	pg/mL	N/A		53		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-62_years_old-male-pg/mL	brain natriuretic peptide	serum, 62 years old		male	pg/mL	N/A		55		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-63_years_old-male-pg/mL	brain natriuretic peptide	serum, 63 years old		male	pg/mL	N/A		56		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-64_years_old-male-pg/mL	brain natriuretic peptide	serum, 64 years old		male	pg/mL	N/A		57		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-65_years_old-male-pg/mL	brain natriuretic peptide	serum, 65 years old		male	pg/mL	N/A		59		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-66_years_old-male-pg/mL	brain natriuretic peptide	serum, 66 years old		male	pg/mL	N/A		60		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-67_years_old-male-pg/mL	brain natriuretic peptide	serum, 67 years old		male	pg/mL	N/A		62		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-68_years_old-male-pg/mL	brain natriuretic peptide	serum, 68 years old		male	pg/mL	N/A		64		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-69_years_old-male-pg/mL	brain natriuretic peptide	serum, 69 years old		male	pg/mL	N/A		65		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-70_years_old-male-pg/mL	brain natriuretic peptide	serum, 70 years old		male	pg/mL	N/A		67		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-71_years_old-male-pg/mL	brain natriuretic peptide	serum, 71 years old		male	pg/mL	N/A		69		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-72_years_old-male-pg/mL	brain natriuretic peptide	serum, 72 years old		male	pg/mL	N/A		70		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-73_years_old-male-pg/mL	brain natriuretic peptide	serum, 73 years old		male	pg/mL	N/A		72		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-74_years_old-male-pg/mL	brain natriuretic peptide	serum, 74 years old		male	pg/mL	N/A		74		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-75_years_old-male-pg/mL	brain natriuretic peptide	serum, 75 years old		male	pg/mL	N/A		76		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-76_years_old-male-pg/mL	brain natriuretic peptide	serum, 76 years old		male	pg/mL	N/A		78		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-77_years_old-male-pg/mL	brain natriuretic peptide	serum, 77 years old		male	pg/mL	N/A		80		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-78_years_old-male-pg/mL	brain natriuretic peptide	serum, 78 years old		male	pg/mL	N/A		82		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-79_years_old-male-pg/mL	brain natriuretic peptide	serum, 79 years old		male	pg/mL	N/A		84		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-80_years_old-male-pg/mL	brain natriuretic peptide	serum, 80 years old		male	pg/mL	N/A		86		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-81_years_old-male-pg/mL	brain natriuretic peptide	serum, 81 years old		male	pg/mL	N/A		88		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-82_years_old-male-pg/mL	brain natriuretic peptide	serum, 82 years old		male	pg/mL	N/A		91		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-83_years_old_or_older-male-pg/mL	brain natriuretic peptide	serum, 83 years old or older		male	pg/mL	N/A		93		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-45_years_old_or_younger-female-pg/mL	brain natriuretic peptide	serum, 45 years old or younger		female	pg/mL	N/A		64		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-46_years_old-female-pg/mL	brain natriuretic peptide	serum, 46 years old		female	pg/mL	N/A		66		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-47_years_old-female-pg/mL	brain natriuretic peptide	serum, 47 years old		female	pg/mL	N/A		67		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-48_years_old-female-pg/mL	brain natriuretic peptide	serum, 48 years old		female	pg/mL	N/A		69		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-49_years_old-female-pg/mL	brain natriuretic peptide	serum, 49 years old		female	pg/mL	N/A		71		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-50_years_old-female-pg/mL	brain natriuretic peptide	serum, 50 years old		female	pg/mL	N/A		73		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-51_years_old-female-pg/mL	brain natriuretic peptide	serum, 51 years old		female	pg/mL	N/A		74		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-52_years_old-female-pg/mL	brain natriuretic peptide	serum, 52 years old		female	pg/mL	N/A		76		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-53_years_old-female-pg/mL	brain natriuretic peptide	serum, 53 years old		female	pg/mL	N/A		78		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-54_years_old-female-pg/mL	brain natriuretic peptide	serum, 54 years old		female	pg/mL	N/A		80		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-55_years_old-female-pg/mL	brain natriuretic peptide	serum, 55 years old		female	pg/mL	N/A		82		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-56_years_old-female-pg/mL	brain natriuretic peptide	serum, 56 years old		female	pg/mL	N/A		84		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-57_years_old-female-pg/mL	brain natriuretic peptide	serum, 57 years old		female	pg/mL	N/A		87		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-58_years_old-female-pg/mL	brain natriuretic peptide	serum, 58 years old		female	pg/mL	N/A		89		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-59_years_old-female-pg/mL	brain natriuretic peptide	serum, 59 years old		female	pg/mL	N/A		91		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-60_years_old-female-pg/mL	brain natriuretic peptide	serum, 60 years old		female	pg/mL	N/A		93		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-61_years_old-female-pg/mL	brain natriuretic peptide	serum, 61 years old		female	pg/mL	N/A		96		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-62_years_old-female-pg/mL	brain natriuretic peptide	serum, 62 years old		female	pg/mL	N/A		98		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-63_years_old-female-pg/mL	brain natriuretic peptide	serum, 63 years old		female	pg/mL	N/A		101		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-64_years_old-female-pg/mL	brain natriuretic peptide	serum, 64 years old		female	pg/mL	N/A		103		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-65_years_old-female-pg/mL	brain natriuretic peptide	serum, 65 years old		female	pg/mL	N/A		106		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-66_years_old-female-pg/mL	brain natriuretic peptide	serum, 66 years old		female	pg/mL	N/A		109		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-67_years_old-female-pg/mL	brain natriuretic peptide	serum, 67 years old		female	pg/mL	N/A		112		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-68_years_old-female-pg/mL	brain natriuretic peptide	serum, 68 years old		female	pg/mL	N/A		114		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-69_years_old-female-pg/mL	brain natriuretic peptide	serum, 69 years old		female	pg/mL	N/A		117		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-70_years_old-female-pg/mL	brain natriuretic peptide	serum, 70 years old		female	pg/mL	N/A		120		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-71_years_old-female-pg/mL	brain natriuretic peptide	serum, 71 years old		female	pg/mL	N/A		123		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-72_years_old-female-pg/mL	brain natriuretic peptide	serum, 72 years old		female	pg/mL	N/A		127		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-73_years_old-female-pg/mL	brain natriuretic peptide	serum, 73 years old		female	pg/mL	N/A		130		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-74_years_old-female-pg/mL	brain natriuretic peptide	serum, 74 years old		female	pg/mL	N/A		133		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-75_years_old-female-pg/mL	brain natriuretic peptide	serum, 75 years old		female	pg/mL	N/A		137		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-76_years_old-female-pg/mL	brain natriuretic peptide	serum, 76 years old		female	pg/mL	N/A		140		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-77_years_old-female-pg/mL	brain natriuretic peptide	serum, 77 years old		female	pg/mL	N/A		144		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-78_years_old-female-pg/mL	brain natriuretic peptide	serum, 78 years old		female	pg/mL	N/A		147		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-79_years_old-female-pg/mL	brain natriuretic peptide	serum, 79 years old		female	pg/mL	N/A		151		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-80_years_old-female-pg/mL	brain natriuretic peptide	serum, 80 years old		female	pg/mL	N/A		155		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-81_years_old-female-pg/mL	brain natriuretic peptide	serum, 81 years old		female	pg/mL	N/A		159		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-82_years_old-female-pg/mL	brain natriuretic peptide	serum, 82 years old		female	pg/mL	N/A		163		Lab Tests Online, Mayo Clinic Labs
-brain_natriuretic_peptide-serum-83_years_old_or_older-female-pg/mL	brain natriuretic peptide	serum, 83 years old or older		female	pg/mL	N/A		167		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	brain natriuretic peptide	serum, 45 years old or younger		male	pg/mL	N/A	N/A	35		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-46_years_old-male-pg/mL	brain natriuretic peptide	serum, 46 years old		male	pg/mL	N/A	N/A	36		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-47_years_old-male-pg/mL	brain natriuretic peptide	serum, 47 years old		male	pg/mL	N/A	N/A	37		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-48_years_old-male-pg/mL	brain natriuretic peptide	serum, 48 years old		male	pg/mL	N/A	N/A	38		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-49_years_old-male-pg/mL	brain natriuretic peptide	serum, 49 years old		male	pg/mL	N/A	N/A	39		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-50_years_old-male-pg/mL	brain natriuretic peptide	serum, 50 years old		male	pg/mL	N/A	N/A	40		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-51_years_old-male-pg/mL	brain natriuretic peptide	serum, 51 years old		male	pg/mL	N/A	N/A	41		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-52_years_old-male-pg/mL	brain natriuretic peptide	serum, 52 years old		male	pg/mL	N/A	N/A	42		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-53_years_old-male-pg/mL	brain natriuretic peptide	serum, 53 years old		male	pg/mL	N/A	N/A	43		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-54_years_old-male-pg/mL	brain natriuretic peptide	serum, 54 years old		male	pg/mL	N/A	N/A	45		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-55_years_old-male-pg/mL	brain natriuretic peptide	serum, 55 years old		male	pg/mL	N/A	N/A	46		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-56_years_old-male-pg/mL	brain natriuretic peptide	serum, 56 years old		male	pg/mL	N/A	N/A	47		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-57_years_old-male-pg/mL	brain natriuretic peptide	serum, 57 years old		male	pg/mL	N/A	N/A	48		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-58_years_old-male-pg/mL	brain natriuretic peptide	serum, 58 years old		male	pg/mL	N/A	N/A	49		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-59_years_old-male-pg/mL	brain natriuretic peptide	serum, 59 years old		male	pg/mL	N/A	N/A	51		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-60_years_old-male-pg/mL	brain natriuretic peptide	serum, 60 years old		male	pg/mL	N/A	N/A	52		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-61_years_old-male-pg/mL	brain natriuretic peptide	serum, 61 years old		male	pg/mL	N/A	N/A	53		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-62_years_old-male-pg/mL	brain natriuretic peptide	serum, 62 years old		male	pg/mL	N/A	N/A	55		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-63_years_old-male-pg/mL	brain natriuretic peptide	serum, 63 years old		male	pg/mL	N/A	N/A	56		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-64_years_old-male-pg/mL	brain natriuretic peptide	serum, 64 years old		male	pg/mL	N/A	N/A	57		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-65_years_old-male-pg/mL	brain natriuretic peptide	serum, 65 years old		male	pg/mL	N/A	N/A	59		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-66_years_old-male-pg/mL	brain natriuretic peptide	serum, 66 years old		male	pg/mL	N/A	N/A	60		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-67_years_old-male-pg/mL	brain natriuretic peptide	serum, 67 years old		male	pg/mL	N/A	N/A	62		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-68_years_old-male-pg/mL	brain natriuretic peptide	serum, 68 years old		male	pg/mL	N/A	N/A	64		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-69_years_old-male-pg/mL	brain natriuretic peptide	serum, 69 years old		male	pg/mL	N/A	N/A	65		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-70_years_old-male-pg/mL	brain natriuretic peptide	serum, 70 years old		male	pg/mL	N/A	N/A	67		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-71_years_old-male-pg/mL	brain natriuretic peptide	serum, 71 years old		male	pg/mL	N/A	N/A	69		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-72_years_old-male-pg/mL	brain natriuretic peptide	serum, 72 years old		male	pg/mL	N/A	N/A	70		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-73_years_old-male-pg/mL	brain natriuretic peptide	serum, 73 years old		male	pg/mL	N/A	N/A	72		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-74_years_old-male-pg/mL	brain natriuretic peptide	serum, 74 years old		male	pg/mL	N/A	N/A	74		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-75_years_old-male-pg/mL	brain natriuretic peptide	serum, 75 years old		male	pg/mL	N/A	N/A	76		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-76_years_old-male-pg/mL	brain natriuretic peptide	serum, 76 years old		male	pg/mL	N/A	N/A	78		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-77_years_old-male-pg/mL	brain natriuretic peptide	serum, 77 years old		male	pg/mL	N/A	N/A	80		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-78_years_old-male-pg/mL	brain natriuretic peptide	serum, 78 years old		male	pg/mL	N/A	N/A	82		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-79_years_old-male-pg/mL	brain natriuretic peptide	serum, 79 years old		male	pg/mL	N/A	N/A	84		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-80_years_old-male-pg/mL	brain natriuretic peptide	serum, 80 years old		male	pg/mL	N/A	N/A	86		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-81_years_old-male-pg/mL	brain natriuretic peptide	serum, 81 years old		male	pg/mL	N/A	N/A	88		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-82_years_old-male-pg/mL	brain natriuretic peptide	serum, 82 years old		male	pg/mL	N/A	N/A	91		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-83_years_old_or_older-male-pg/mL	brain natriuretic peptide	serum, 83 years old or older		male	pg/mL	N/A	N/A	93		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-45_years_old_or_younger-female-pg/mL	brain natriuretic peptide	serum, 45 years old or younger		female	pg/mL	N/A	N/A	64		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-46_years_old-female-pg/mL	brain natriuretic peptide	serum, 46 years old		female	pg/mL	N/A	N/A	66		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-47_years_old-female-pg/mL	brain natriuretic peptide	serum, 47 years old		female	pg/mL	N/A	N/A	67		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-48_years_old-female-pg/mL	brain natriuretic peptide	serum, 48 years old		female	pg/mL	N/A	N/A	69		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-49_years_old-female-pg/mL	brain natriuretic peptide	serum, 49 years old		female	pg/mL	N/A	N/A	71		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-50_years_old-female-pg/mL	brain natriuretic peptide	serum, 50 years old		female	pg/mL	N/A	N/A	73		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-51_years_old-female-pg/mL	brain natriuretic peptide	serum, 51 years old		female	pg/mL	N/A	N/A	74		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-52_years_old-female-pg/mL	brain natriuretic peptide	serum, 52 years old		female	pg/mL	N/A	N/A	76		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-53_years_old-female-pg/mL	brain natriuretic peptide	serum, 53 years old		female	pg/mL	N/A	N/A	78		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-54_years_old-female-pg/mL	brain natriuretic peptide	serum, 54 years old		female	pg/mL	N/A	N/A	80		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-55_years_old-female-pg/mL	brain natriuretic peptide	serum, 55 years old		female	pg/mL	N/A	N/A	82		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-56_years_old-female-pg/mL	brain natriuretic peptide	serum, 56 years old		female	pg/mL	N/A	N/A	84		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-57_years_old-female-pg/mL	brain natriuretic peptide	serum, 57 years old		female	pg/mL	N/A	N/A	87		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-58_years_old-female-pg/mL	brain natriuretic peptide	serum, 58 years old		female	pg/mL	N/A	N/A	89		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-59_years_old-female-pg/mL	brain natriuretic peptide	serum, 59 years old		female	pg/mL	N/A	N/A	91		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-60_years_old-female-pg/mL	brain natriuretic peptide	serum, 60 years old		female	pg/mL	N/A	N/A	93		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-61_years_old-female-pg/mL	brain natriuretic peptide	serum, 61 years old		female	pg/mL	N/A	N/A	96		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-62_years_old-female-pg/mL	brain natriuretic peptide	serum, 62 years old		female	pg/mL	N/A	N/A	98		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-63_years_old-female-pg/mL	brain natriuretic peptide	serum, 63 years old		female	pg/mL	N/A	N/A	101		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-64_years_old-female-pg/mL	brain natriuretic peptide	serum, 64 years old		female	pg/mL	N/A	N/A	103		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-65_years_old-female-pg/mL	brain natriuretic peptide	serum, 65 years old		female	pg/mL	N/A	N/A	106		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-66_years_old-female-pg/mL	brain natriuretic peptide	serum, 66 years old		female	pg/mL	N/A	N/A	109		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-67_years_old-female-pg/mL	brain natriuretic peptide	serum, 67 years old		female	pg/mL	N/A	N/A	112		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-68_years_old-female-pg/mL	brain natriuretic peptide	serum, 68 years old		female	pg/mL	N/A	N/A	114		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-69_years_old-female-pg/mL	brain natriuretic peptide	serum, 69 years old		female	pg/mL	N/A	N/A	117		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-70_years_old-female-pg/mL	brain natriuretic peptide	serum, 70 years old		female	pg/mL	N/A	N/A	120		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-71_years_old-female-pg/mL	brain natriuretic peptide	serum, 71 years old		female	pg/mL	N/A	N/A	123		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-72_years_old-female-pg/mL	brain natriuretic peptide	serum, 72 years old		female	pg/mL	N/A	N/A	127		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-73_years_old-female-pg/mL	brain natriuretic peptide	serum, 73 years old		female	pg/mL	N/A	N/A	130		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-74_years_old-female-pg/mL	brain natriuretic peptide	serum, 74 years old		female	pg/mL	N/A	N/A	133		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-75_years_old-female-pg/mL	brain natriuretic peptide	serum, 75 years old		female	pg/mL	N/A	N/A	137		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-76_years_old-female-pg/mL	brain natriuretic peptide	serum, 76 years old		female	pg/mL	N/A	N/A	140		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-77_years_old-female-pg/mL	brain natriuretic peptide	serum, 77 years old		female	pg/mL	N/A	N/A	144		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-78_years_old-female-pg/mL	brain natriuretic peptide	serum, 78 years old		female	pg/mL	N/A	N/A	147		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-79_years_old-female-pg/mL	brain natriuretic peptide	serum, 79 years old		female	pg/mL	N/A	N/A	151		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-80_years_old-female-pg/mL	brain natriuretic peptide	serum, 80 years old		female	pg/mL	N/A	N/A	155		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-81_years_old-female-pg/mL	brain natriuretic peptide	serum, 81 years old		female	pg/mL	N/A	N/A	159		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-82_years_old-female-pg/mL	brain natriuretic peptide	serum, 82 years old		female	pg/mL	N/A	N/A	163		Lab Tests Online, Mayo Clinic Labs
+brain_natriuretic_peptide-serum-83_years_old_or_older-female-pg/mL	brain natriuretic peptide	serum, 83 years old or older		female	pg/mL	N/A	N/A	167		Lab Tests Online, Mayo Clinic Labs
 N-terminal_pro_b-type_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 45 years old or younger		male	pg/mL	10		51	HP:0031185	Lab Tests Online, Mayo Clinic Labs
 N-terminal_pro_b-type_natriuretic_peptide-serum-46_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 46 years old		male	pg/mL	10		53	HP:0031185	Lab Tests Online, Mayo Clinic Labs
 N-terminal_pro_b-type_natriuretic_peptide-serum-47_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 47 years old		male	pg/mL	10		55	HP:0031185	Lab Tests Online, Mayo Clinic Labs
@@ -362,23 +362,40 @@ body_temperature-resting-°C	body temperature	resting		N/A	°C	35	HP:0002045	38	
 body_height-body-cm	body height	body		N/A	cm	N/A	N/A	N/A	N/A	
 body_weight-body-kg	body weight	body		N/A	kg	N/A	N/A	N/A	N/A	
 zinc_protoporphyrin-blood-mcmol/mol_heme	zinc protoporphyrin	blood		N/A	mcmol/mol heme	N/A		70		Lab Tests Online, Mayo Clinic Labs
-prostate_specific_antigen-serum-39_years_old_or_younger-male-ng/mL	prostate specific antigen	serum, 39 years old or younger		male	ng/mL	N/A		2		Mayo Clinic Labs
-prostate_specific_antigen-serum-40_to_49_years_old-male-ng/mL	prostate specific antigen	serum, 40 to 49 years old		male	ng/mL	N/A		2.5		Mayo Clinic Labs
-prostate_specific_antigen-serum-50_to_59_years_old-male-ng/mL	prostate specific antigen	serum, 50 to 59 years old		male	ng/mL	N/A		3.5		Mayo Clinic Labs
-prostate_specific_antigen-serum-60_to_69_years_old-male-ng/mL	prostate specific antigen	serum, 60 to 69 years old		male	ng/mL	N/A		4.5		Mayo Clinic Labs
-prostate_specific_antigen-serum-70_to_79_years_old-male-ng/mL	prostate specific antigen	serum, 70 to 79 years old		male	ng/mL	N/A		6.5		Mayo Clinic Labs
-prostate_specific_antigen-serum-80_years_old_or_older-male-ng/mL	prostate specific antigen	serum, 80 years old or older		male	ng/mL	N/A		7.2		Mayo Clinic Labs
+prostate_specific_antigen-serum-39_years_old_or_younger-male-ng/mL	prostate specific antigen	serum, 39 years old or younger		male	ng/mL	N/A	N/A	2		Mayo Clinic Labs
+prostate_specific_antigen-serum-40_to_49_years_old-male-ng/mL	prostate specific antigen	serum, 40 to 49 years old		male	ng/mL	N/A	N/A	2.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-50_to_59_years_old-male-ng/mL	prostate specific antigen	serum, 50 to 59 years old		male	ng/mL	N/A	N/A	3.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-60_to_69_years_old-male-ng/mL	prostate specific antigen	serum, 60 to 69 years old		male	ng/mL	N/A	N/A	4.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-70_to_79_years_old-male-ng/mL	prostate specific antigen	serum, 70 to 79 years old		male	ng/mL	N/A	N/A	6.5		Mayo Clinic Labs
+prostate_specific_antigen-serum-80_years_old_or_older-male-ng/mL	prostate specific antigen	serum, 80 years old or older		male	ng/mL	N/A	N/A	7.2		Mayo Clinic Labs
 ethanolamine-urine-24_h-mg/dL	ethanolamine	urine, 24 h		N/A	mg/dL	0		3.1		Tietz
 ethanolamine-urine-24_h-μmol/L	ethanolamine	urine, 24 h		N/A	μmol/L	0		520		Tietz
 ethanolamine-cerebrospinal_fluid-mg/dL	ethanolamine	cerebrospinal fluid		N/A	mg/dL	0.065		0.083		Tietz
 ethanolamine-cerebrospinal_fluid-μmol/L	ethanolamine	cerebrospinal fluid		N/A	μmol/L	10.6		13.6		Tietz
 erythropoietin-serum-mU/mL	erythropoietin	serum		N/A	mU/mL	5		30		Tietz
-dioxane-plasma-mg/L	dioxane	plasma		N/A	mg/L	N/A		12		Tietz
-dioxane-plasma-μmol/L	dioxane	plasma		N/A	μmol/L	N/A		137		Tietz
-dioxane-urine-mg/L	dioxane	urine		N/A	mg/L	N/A		8		Tietz
-dioxane-urine-μmol/L	dioxane	urine		N/A	μmol/L	N/A		91		Tietz
-d-dimer-plasma-μg/mL	d-dimer	plasma		N/A	μg/mL	N/A		0.5		Tietz, Mayo Clinic Labs
-cyanide-serum-mg/L	cyanide	serum		N/A	mg/L	N/A		0.1		Tietz
-cyanide-serum-μmol/L	cyanide	serum		N/A	μmol/L	N/A		3.84		Tietz
-cyanide-blood-mg/L	cyanide	blood		N/A	mg/L	N/A		1		Tietz
-cyanide-blood-μmol/L	cyanide	blood		N/A	μmol/L	N/A		38.4		Tietz
+dioxane-plasma-mg/L	dioxane	plasma		N/A	mg/L	N/A	N/A	12		Tietz
+dioxane-plasma-μmol/L	dioxane	plasma		N/A	μmol/L	N/A	N/A	137		Tietz
+dioxane-urine-mg/L	dioxane	urine		N/A	mg/L	N/A	N/A	8		Tietz
+dioxane-urine-μmol/L	dioxane	urine		N/A	μmol/L	N/A	N/A	91		Tietz
+d-dimer-plasma-μg/mL	d-dimer	plasma		N/A	μg/mL	N/A	N/A	0.5		Tietz, Mayo Clinic Labs
+cyanide-serum-mg/L	cyanide	serum		N/A	mg/L	N/A	N/A	0.1		Tietz
+cyanide-serum-μmol/L	cyanide	serum		N/A	μmol/L	N/A	N/A	3.84		Tietz
+cyanide-blood-mg/L	cyanide	blood		N/A	mg/L	N/A	N/A	1		Tietz
+cyanide-blood-μmol/L	cyanide	blood		N/A	μmol/L	N/A	N/A	38.4		Tietz
+aortic_root_diameter-female-cm	aortic root diameter	N/A		female	cm	3.5	HP:0001680	3.72	HP:0001679	ACC/AHA Aortic Disease Guidelines
+aortic_root_diameter-male-cm	aortic root diameter	N/A		male	cm	3.63	HP:0001680	3.91	HP:0001679	ACC/AHA Aortic Disease Guidelines
+mid-descending_aorta_diameter-female-cm	mid-descending aorta diameter	N/A		female	cm	2.45	HP:0001680	2.64	HP:0001679	ACC/AHA Aortic Disease Guidelines
+mid-descending_aorta_diameter-male-cm	mid-descending aorta diameter	N/A		male	cm	2.39	HP:0001680	2.98	HP:0001679	ACC/AHA Aortic Disease Guidelines
+diaphragmatic_aorta_diameter-female-cm	diaphragmatic aorta diameter	N/A		female	cm	2.4	HP:0001680	2.44	HP:0001679	ACC/AHA Aortic Disease Guidelines
+diaphragmatic_aorta_diameter-male-cm	diaphragmatic aorta diameter	N/A		male	cm	2.43	HP:0001680	2.69	HP:0001679	ACC/AHA Aortic Disease Guidelines
+non-HDL_cholesterol-serum-mg/dL	non-HDL cholesterol	serum		N/A	mg/dL	N/A		190		Mayo Clinic Labs
+LDL_cholesterol-serum-mg/dL	LDL cholesterol	serum		N/A	mg/dL	N/A		160	HP:0003141	Mayo Clinic Labs
+HDL_cholesterol-serum-male-mg/dL	HDL cholesterol	serum		male	mg/dL	40	HP:0003233	N/A		Mayo Clinic Labs
+HDL_cholesterol-serum-female-mg/dL	HDL cholesterol	serum		female	mg/dL	50	HP:0003233	N/A		Mayo Clinic Labs
+blood_urea_nitrogen-serum-male-mg/dL	blood urea nitrogen	serum		male	mg/dL	8	HP:0031969	24	HP:0003138	Mayo Clinic Labs
+blood_urea_nitrogen-serum-female-mg/dL	blood urea nitrogen	serum		female	mg/dL	6	HP:0031969	21	HP:0003138	Mayo Clinic Labs
+tropomyosin-serum-μg/L	tropomyosin	serum		N/A	μg/L	1		3		Tietz
+left_ventricular_ejection_fraction--percent	left ventricular ejection fraction	N/A		N/A	percent	50	HP:0012664	70	HP:0025169	MedlinePlus, Wehner et al. (2019)
+homocitrulline-urine-mg/24_h	homocitrulline	urine		N/A	mg/24 h	N/A		11		Tietz
+homocitrulline-urine-μmol/24_h	homocitrulline	urine		N/A	μmol/24 h	N/A		58		Tietz
+troponin_T-serum-μg/L	troponin T	serum		N/A	μg/L	N/A		0.01	HP:0410174	Tietz

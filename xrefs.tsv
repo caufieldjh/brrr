@@ -1,27 +1,27 @@
 ID	LOINC
-17-hydroxycorticosteroids-urine-male-mg/24_h	
-17-hydroxycorticosteroids-urine-male-μmol/24_h	
-17-hydroxycorticosteroids-urine-female-mg/24_h	
-17-hydroxycorticosteroids-urine-female-μmol/24_h	
+17-hydroxycorticosteroids-urine-male-mg/24_h	21036-9
+17-hydroxycorticosteroids-urine-male-μmol/24_h	14568-0
+17-hydroxycorticosteroids-urine-female-mg/24_h	21036-9
+17-hydroxycorticosteroids-urine-female-μmol/24_h	14568-0
 17-ketosteroids-urine-total-male-mg/24_h	12769-6
 17-ketosteroids-urine-total-male-μmol/24_h	14572-2
 17-ketosteroids-urine-total-female-mg/24_h	12769-6
 17-ketosteroids-urine-total-female-μmol/24_h	14572-2
 alanine_aminotransferase-serum-U/L	1742-6
-albumin-serum-g/dL	
-albumin-serum-g/L	
-alkaline_phosphatase-serum-p-NPP_at_30C-U/L	
+albumin-serum-g/dL	1751-7
+albumin-serum-g/L	1751-7
+alkaline_phosphatase-serum-p-NPP_at_30C-U/L	6768-6
 amylase-serum-U/L	1798-8
-aspartate_aminotransferase-serum-U/L	
+aspartate_aminotransferase-serum-U/L	1920-8
 bands-blood-percent	26508-2
-basophils-blood-percent	
+basophils-blood-percent	30180-4
 bicarbonate-serum-mEq/L	
-bicarbonate-serum-mmol/L	
-bilirubin-serum-total-mg/dL	
-bilirubin-serum-direct-mg/dL	
-bilirubin-serum-total-μmol/L	
-bilirubin-serum-direct-μmol/L	
-bleeding_time--minutes	
+bicarbonate-serum-mmol/L	1963-8
+bilirubin-serum-total-mg/dL	1975-2
+bilirubin-serum-direct-mg/dL	1968-7
+bilirubin-serum-total-μmol/L	77137-8
+bilirubin-serum-direct-μmol/L	14629-0
+bleeding_time--minutes	11067-6
 body_mass_index--kg/m2	39156-5
 calcium-serum-mg/dL	
 calcium-serum-mmol/L	
@@ -174,15 +174,15 @@ red_cell_volume-blood-female-L/kg
 reticulocyte_count-blood-percent	
 segmented_neutrophils-blood-percent	
 sodium-serum-mEq/L	
-sodium-serum-mmol/L	
+sodium-serum-mmol/L	2951-2
 thrombin_time-deviation_from_control-seconds	
 thyroid-stimulating_hormone-serum-μU/mL	
 thyroid-stimulating_hormone-plasma-μU/mL	
 thyroid-stimulating_hormone-serum-mU/L	
 thyroid-stimulating_hormone-plasma-mU/L	
 thyroidal_iodine_uptake-administered_dose_at_24_h-percent	
-thyroxine-serum-μg/dL	
-thyroxine-serum-nmol/L	
+thyroxine-serum-μg/dL	3026-2
+thyroxine-serum-nmol/L	14921-1
 triglycerides-serum-mg/dL	
 triglycerides-serum-mmol/L	
 triiodothyronine-serum-ng/dL	
@@ -190,8 +190,8 @@ triiodothyronine-serum-nmol/L
 triiodothyronine-resin_uptake-percent	
 urea_nitrogen-serum-mg/dL	
 urea_nitrogen-serum-mmol/L	
-uric_acid-serum-mg/dL	
-uric_acid-serum-mmol/L	
+uric_acid-serum-mg/dL	3084-1
+uric_acid-serum-mmol/L	14933-6
 troponin_I-serum-ng/mL	10839-9
 myoglobin-serum-μg/L	2639-3
 myoglobin-urine-μg/L	2641-9
@@ -378,7 +378,24 @@ dioxane-plasma-μmol/L
 dioxane-urine-mg/L	
 dioxane-urine-μmol/L	
 d-dimer-plasma-μg/mL	48067-3
-cyanide-serum-mg/L	
-cyanide-serum-μmol/L	
-cyanide-blood-mg/L	
-cyanide-blood-μmol/L	
+cyanide-serum-mg/L	5635-8
+cyanide-serum-μmol/L	25387-2
+cyanide-blood-mg/L	5634-1
+cyanide-blood-μmol/L	59186-7
+aortic_root_diameter-female-cm	78176-5
+aortic_root_diameter-male-cm	78176-5
+mid-descending_aorta_diameter-female-cm	18013-3
+mid-descending_aorta_diameter-male-cm	18013-3
+diaphragmatic_aorta_diameter-female-cm	
+diaphragmatic_aorta_diameter-male-cm	
+non-HDL_cholesterol-serum-mg/dL	43396-1
+LDL_cholesterol-serum-mg/dL	2089-1
+HDL_cholesterol-serum-male-mg/dL	14646-4
+HDL_cholesterol-serum-female-mg/dL	14646-4
+blood_urea_nitrogen-serum-male-mg/dL	3094-0
+blood_urea_nitrogen-serum-female-mg/dL	3094-0
+tropomyosin-serum-μg/L	
+left_ventricular_ejection_fraction--percent	10230-1
+homocitrulline-urine-mg/24_h	
+homocitrulline-urine-μmol/24_h	
+troponin_T-serum-μg/L	6598-7

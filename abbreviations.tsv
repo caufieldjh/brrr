@@ -36,15 +36,15 @@ gamma globulin
 globulin	
 glucose	FBS
 growth hormone	
-heart rate	
+heart rate	HR
 hematocrit	Hct, Crit, HCT, PCV
 hemoglobin	HGB
 hemoglobin A1C	HbA1c, A1c
 high-sensitivity C-reactive protein	hs-CRP, hsCRP, cardiac CRP
-IgA	
-IgE	
-IgG	
-IgM	
+IgA	IgA
+IgE	IgE
+IgG	IgG
+IgM	IgM
 iron	Fe
 lactate dehydrogenase	LD, LDH
 leukocyte count	
@@ -55,7 +55,7 @@ magnesium	Mg2+, Mg
 mean blood pressure	BP, MBP
 mean corpuscular hemoglobin	
 mean corpuscular hemoglobin concentration	
-mean corpuscular volume	
+mean corpuscular volume	MCV
 monocytes	Mono
 myoglobin	
 N-terminal pro b-type natriuretic peptide	NT-proBNP
@@ -63,31 +63,35 @@ osmolarity
 oxalate	Oxal
 parathyroid hormone	PTH
 partial thromboplastin time	PTT
-PCO2	
-pH	
+PCO2	PCO2
+pH	pH
 phosphorus	PO4
 plasma volume	
 platelet count	PLT, PLT Ct
-PO2	
+PO2	PO2
 potassium	K+
 pressure	
 prolactin	hPRL, PRL
 proteins	
-prothrombin time	
-red cell volume	
-respiratory rate	
-reticulocyte count	
-segmented neutrophils	
+prothrombin time	PT
+red cell volume	MCV
+respiratory rate	RR, Resp
+reticulocyte count	Retic
+segmented neutrophils	N-Seg
 sodium	Na+, Na, NA
 systolic blood pressure	SBP
 thrombin time	TT
 thyroid-stimulating hormone	TSH
 thyroidal iodine uptake	123I
 thyroxine	T4
-triglycerides	
+triglycerides	Trig, TG, TAG
 triiodothyronine	T3
 troponin I	TnI
 urea nitrogen	BUN
-uric acid	
+uric acid	Urate
 zinc protoporphyrin	ZP, ZPP, FEP
 prostate specific antigen	PSA
+ethanolamine	EA
+erythropoietin	
+d-dimer	
+cyanide	

@@ -14,7 +14,7 @@ alkaline_phosphatase-serum-p-NPP_at_30C-U/L
 amylase-serum-U/L	1798-8
 aspartate_aminotransferase-serum-U/L	
 bands-blood-percent	26508-2
-basophils--percent	
+basophils-blood-percent	
 bicarbonate-serum-mEq/L	
 bicarbonate-serum-mmol/L	
 bilirubin-serum-total-mg/dL	
@@ -47,13 +47,13 @@ creatinine-serum-mg/dL
 creatinine-serum-μmol/L	
 creatinine_clearance-urine-male-mL/min	
 creatinine_clearance-urine-female-mL/min	
-eosinophils--percent	
-erythrocyte_count-male-count/mm3	
-erythrocyte_count-male-count/L	
-erythrocyte_count-female-count/mm3	
-erythrocyte_count-female-count/L	
-erythrocyte_sedimentation_rate-male-mm/h	
-erythrocyte_sedimentation_rate-female-mm/h	
+eosinophils-blood-percent	
+erythrocyte_count-blood-male-count/mm3	
+erythrocyte_count-blood-male-count/L	
+erythrocyte_count-blood-female-count/mm3	
+erythrocyte_count-blood-female-count/L	
+erythrocyte_sedimentation_rate-blood-male-mm/h	
+erythrocyte_sedimentation_rate-blood-female-mm/h	
 estriol-serum-total-in_pregnancy_(24-28_wks)-female-ng/mL	
 estriol-serum-total-in_pregnancy_(28-32_wks)-female-ng/mL	
 estriol-serum-total-in_pregnancy_(32-36_wks)-female-ng/mL	
@@ -68,6 +68,7 @@ estriol-urine-total-in_pregnancy_(35_wks)-female-mg/24_h
 estriol-urine-total-in_pregnancy_(35_wks)-female-μmol/24_h	
 estriol-urine-total-in_pregnancy_(40_wks)-female-mg/24_h	
 estriol-urine-total-in_pregnancy_(40_wks)-female-μmol/24_h	
+estriol-urine-total-male-μg/24_h	
 ferritin-serum-female-ng/mL	
 ferritin-serum-male-ng/mL	
 ferritin-serum-female-μg/L	
@@ -95,13 +96,13 @@ growth_hormone-serum-provocative_arginine_stimulation-ng/mL
 growth_hormone-serum-provocative_arginine_stimulation-μg/L	
 hematocrit-blood-male-percent	20570-8
 hematocrit-blood-female-percent	20570-8
-hemoglobin-blood-male-g/dL	
-hemoglobin-blood-male-mmol/L	
-hemoglobin-blood-female-g/dL	
-hemoglobin-blood-female-mmol/L	
-hemoglobin-plasma-mg/dL	
-hemoglobin-plasma-mmol/L	
-hemoglobin_A1C--percent	
+hemoglobin-blood-male-g/dL	718-7
+hemoglobin-blood-male-mmol/L	59260-0
+hemoglobin-blood-female-g/dL	718-7
+hemoglobin-blood-female-mmol/L	59260-0
+hemoglobin-plasma-mg/dL	721-1
+hemoglobin-plasma-mmol/L	25433-4
+hemoglobin_A1C-blood-percent	
 IgA-serum-mg/dL	
 IgA-serum-g/L	
 IgE-serum-IU/mL	
@@ -110,11 +111,11 @@ IgG-serum-mg/dL
 IgG-serum-g/L	
 IgM-serum-mg/dL	
 IgM-serum-g/L	
-iron--μg/dL	
-iron--μmol/L	
+iron-serum-μg/dL	2498-4
+iron-serum-μmol/L	14798-3
 lactate_dehydrogenase-serum-U/L	
-leukocyte_count--count/mm3	
-leukocyte_count--count/L	
+leukocyte_count-blood-count/mm3	
+leukocyte_count-blood-count/L	
 lutenizing_hormone-serum/plasma-male-mIU/mL	
 lutenizing_hormone-serum/plasma-follicular_phase-female-mIU/mL	
 lutenizing_hormone-serum/plasma-midcycle-female-mIU/mL	
@@ -123,16 +124,16 @@ lutenizing_hormone-serum/plasma-male-U/L
 lutenizing_hormone-serum/plasma-follicular_phase-female-U/L	
 lutenizing_hormone-serum/plasma-midcycle-female-U/L	
 lutenizing_hormone-serum/plasma-postmenopause-female-U/L	
-lymphocytes--percent	
+lymphocytes-blood-percent	
 magnesium-serum-mEq/L	2601-3
 magnesium-serum-mmol/L	2601-3
-mean_corpuscular_hemoglobin--pg/cell	
-mean_corpuscular_hemoglobin--fmol/cell	
-mean_corpuscular_hemoglobin_concentration--percent_Hb/cell	
-mean_corpuscular_hemoglobin_concentration--mmol_Hb/L	
-mean_corpuscular_volume--μm3	
-mean_corpuscular_volume--fL	
-monocytes--percent	26485-3
+mean_corpuscular_hemoglobin-blood-pg/cell	
+mean_corpuscular_hemoglobin-blood-fmol/cell	
+mean_corpuscular_hemoglobin_concentration-blood-percent_Hb/cell	
+mean_corpuscular_hemoglobin_concentration-blood-mmol_Hb/L	
+mean_corpuscular_volume-blood-μm3	
+mean_corpuscular_volume-blood-fL	
+monocytes-blood-percent	26485-3
 osmolarity-serum-mOsmol/kg_H2O	
 osmolarity-urine-mOsmol/kg_H2O	
 oxalate-urine-μg/mL	2700-3
@@ -166,12 +167,12 @@ proteins-cerebrospinal_fluid-total-g/L
 proteins-urine-total-mg/24_h	2889-4
 proteins-urine-total-g/24_h	2889-4
 prothrombin_time--seconds	
-red_cell_volume-male-mL/kg	
-red_cell_volume-male-L/kg	
-red_cell_volume-female-mL/kg	
-red_cell_volume-female-L/kg	
-reticulocyte_count--percent	
-segmented_neutrophils--percent	
+red_cell_volume-blood-male-mL/kg	
+red_cell_volume-blood-male-L/kg	
+red_cell_volume-blood-female-mL/kg	
+red_cell_volume-blood-female-L/kg	
+reticulocyte_count-blood-percent	
+segmented_neutrophils-blood-percent	
 sodium-serum-mEq/L	
 sodium-serum-mmol/L	
 thrombin_time-deviation_from_control-seconds	
@@ -367,3 +368,17 @@ prostate_specific_antigen-serum-50_to_59_years_old-male-ng/mL	83112-3
 prostate_specific_antigen-serum-60_to_69_years_old-male-ng/mL	83112-3
 prostate_specific_antigen-serum-70_to_79_years_old-male-ng/mL	83112-3
 prostate_specific_antigen-serum-80_years_old_or_older-male-ng/mL	83112-3
+ethanolamine-urine-24_h-mg/dL	
+ethanolamine-urine-24_h-μmol/L	
+ethanolamine-cerebrospinal_fluid-mg/dL	
+ethanolamine-cerebrospinal_fluid-μmol/L	
+erythropoietin-serum-mU/mL	
+dioxane-plasma-mg/L	
+dioxane-plasma-μmol/L	
+dioxane-urine-mg/L	
+dioxane-urine-μmol/L	
+d-dimer-plasma-μg/mL	48067-3
+cyanide-serum-mg/L	
+cyanide-serum-μmol/L	
+cyanide-blood-mg/L	
+cyanide-blood-μmol/L	

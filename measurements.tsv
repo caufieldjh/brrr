@@ -8,21 +8,21 @@ ID	Measurement	Sample Type	Category	Sex Specific	Reference Units	Reference Low	L
 17-ketosteroids-urine-total-female-mg/24_h	17-ketosteroids	urine, total		female	mg/24 h	6		15		USMLE Step 1
 17-ketosteroids-urine-total-female-μmol/24_h	17-ketosteroids	urine, total		female	μmol/24 h	21		52		USMLE Step 1
 alanine_aminotransferase-serum-U/L	alanine aminotransferase	serum	Metabolic	N/A	U/L	8		20		USMLE Step 1
-albumin-serum-g/dL	albumin	serum	Proteins	N/A	g/dL	3.5		5.5		USMLE Step 1
-albumin-serum-g/L	albumin	serum	Proteins	N/A	g/L	35		55		USMLE Step 1
+albumin-serum-g/dL	albumin	serum	Proteins	N/A	g/dL	3.5	HP:0003073	5.5	HP:0012117	USMLE Step 1
+albumin-serum-g/L	albumin	serum	Proteins	N/A	g/L	35	HP:0003073	55	HP:0012117	USMLE Step 1
 alkaline_phosphatase-serum-p-NPP_at_30C-U/L	alkaline phosphatase	serum, p-NPP at 30C		N/A	U/L	20		70		USMLE Step 1
-amylase-serum-U/L	amylase	serum		N/A	U/L	25		125		USMLE Step 1
-aspartate_aminotransferase-serum-U/L	aspartate aminotransferase	serum		N/A	U/L	8		20		USMLE Step 1
+amylase-serum-U/L	amylase	serum		N/A	U/L	25	HP:0410289	125	HP:0410288	USMLE Step 1
+aspartate_aminotransferase-serum-U/L	aspartate aminotransferase	serum		N/A	U/L	8		20	HP:0031956	USMLE Step 1
 bands-blood-percent	bands	blood	Leukocytes	N/A	percent	3		5		USMLE Step 1
-basophils-blood-percent	basophils	blood	Leukocytes	N/A	percent	0		0.75		USMLE Step 1
-bicarbonate-serum-mEq/L	bicarbonate	serum	Electrolytes	N/A	mEq/L	22		28		USMLE Step 1
-bicarbonate-serum-mmol/L	bicarbonate	serum	Electrolytes	N/A	mmol/L	22		28		USMLE Step 1
+basophils-blood-percent	basophils	blood	Leukocytes	N/A	percent	0		0.75	HP:0031807	USMLE Step 1
+bicarbonate-serum-mEq/L	bicarbonate	serum	Electrolytes	N/A	mEq/L	22	HP:0032066	28	HP:0032067	USMLE Step 1
+bicarbonate-serum-mmol/L	bicarbonate	serum	Electrolytes	N/A	mmol/L	22	HP:0032066	28	HP:0032067	USMLE Step 1
 bilirubin-serum-total-mg/dL	bilirubin	serum, total		N/A	mg/dL	0.1		1		USMLE Step 1
 bilirubin-serum-direct-mg/dL	bilirubin	serum, direct		N/A	mg/dL	0		0.3		USMLE Step 1
 bilirubin-serum-total-μmol/L	bilirubin	serum, total		N/A	μmol/L	2		17		USMLE Step 1
 bilirubin-serum-direct-μmol/L	bilirubin	serum, direct		N/A	μmol/L	0		5		USMLE Step 1
-bleeding_time--minutes	bleeding time			N/A	minutes	2		7		USMLE Step 1
-body_mass_index--kg/m2	body mass index	N/A		N/A	kg/m2	19	underweight	25	overweight	USMLE Step 1
+bleeding_time--minutes	bleeding time	N/A		N/A	minutes	2		7		USMLE Step 1
+body_mass_index--kg/m2	body mass index	N/A		N/A	kg/m2	19	HP:0045082	25	HP:0025502	USMLE Step 1
 calcium-serum-mg/dL	calcium	serum		N/A	mg/dL	8.4		10.2		USMLE Step 1
 calcium-serum-mmol/L	calcium	serum		N/A	mmol/L	2.1		2.8		USMLE Step 1
 calcium-urine-mg/24_h	calcium	urine		N/A	mg/24 h	100		300		USMLE Step 1
@@ -47,13 +47,13 @@ creatinine-serum-mg/dL	creatinine	serum		N/A	mg/dL	0.6		1.2		USMLE Step 1
 creatinine-serum-μmol/L	creatinine	serum		N/A	μmol/L	53		106		USMLE Step 1
 creatinine_clearance-urine-male-mL/min	creatinine clearance	urine		male	mL/min	97		137		USMLE Step 1
 creatinine_clearance-urine-female-mL/min	creatinine clearance	urine		female	mL/min	88		128		USMLE Step 1
-eosinophils--percent	eosinophils		Leukocytes	N/A	percent	1		3		USMLE Step 1
-erythrocyte_count-male-count/mm3	erythrocyte count			male	count/mm3	4300000		5900000		USMLE Step 1
-erythrocyte_count-male-count/L	erythrocyte count			male	count/L	4300000000000		5900000000000		USMLE Step 1
-erythrocyte_count-female-count/mm3	erythrocyte count			female	count/mm3	3500000		5500000		USMLE Step 1
-erythrocyte_count-female-count/L	erythrocyte count			female	count/L	3500000000000		5500000000000		USMLE Step 1
-erythrocyte_sedimentation_rate-male-mm/h	erythrocyte sedimentation rate			male	mm/h	0		15		USMLE Step 1
-erythrocyte_sedimentation_rate-female-mm/h	erythrocyte sedimentation rate			female	mm/h	0		20		USMLE Step 1
+eosinophils-blood-percent	eosinophils	blood	Leukocytes	N/A	percent	1		3		USMLE Step 1
+erythrocyte_count-blood-male-count/mm3	erythrocyte count	blood		male	count/mm3	4300000		5900000		USMLE Step 1
+erythrocyte_count-blood-male-count/L	erythrocyte count	blood		male	count/L	4300000000000		5900000000000		USMLE Step 1
+erythrocyte_count-blood-female-count/mm3	erythrocyte count	blood		female	count/mm3	3500000		5500000		USMLE Step 1
+erythrocyte_count-blood-female-count/L	erythrocyte count	blood		female	count/L	3500000000000		5500000000000		USMLE Step 1
+erythrocyte_sedimentation_rate-blood-male-mm/h	erythrocyte sedimentation rate	blood		male	mm/h	0		15		USMLE Step 1, Tietz
+erythrocyte_sedimentation_rate-blood-female-mm/h	erythrocyte sedimentation rate	blood		female	mm/h	0		20		USMLE Step 1, Tietz
 estriol-serum-total-in_pregnancy_(24-28_wks)-female-ng/mL	estriol	serum, total, in pregnancy (24-28 wks)		female	ng/mL	30		170		USMLE Step 1
 estriol-serum-total-in_pregnancy_(28-32_wks)-female-ng/mL	estriol	serum, total, in pregnancy (28-32 wks)		female	ng/mL	40		220		USMLE Step 1
 estriol-serum-total-in_pregnancy_(32-36_wks)-female-ng/mL	estriol	serum, total, in pregnancy (32-36 wks)		female	ng/mL	60		280		USMLE Step 1
@@ -68,18 +68,19 @@ estriol-urine-total-in_pregnancy_(35_wks)-female-mg/24_h	estriol	urine, total, i
 estriol-urine-total-in_pregnancy_(35_wks)-female-μmol/24_h	estriol	urine, total, in pregnancy (35 wks)		female	μmol/24 h	31		97		USMLE Step 1
 estriol-urine-total-in_pregnancy_(40_wks)-female-mg/24_h	estriol	urine, total, in pregnancy (40 wks)		female	mg/24 h	13		42		USMLE Step 1
 estriol-urine-total-in_pregnancy_(40_wks)-female-μmol/24_h	estriol	urine, total, in pregnancy (40 wks)		female	μmol/24 h	45		146		USMLE Step 1
+estriol-urine-total-male-μg/24_h	estriol	urine, total		male	μg/24 h	1		11		Tietz
 ferritin-serum-female-ng/mL	ferritin	serum		female	ng/mL	12		150		USMLE Step 1
 ferritin-serum-male-ng/mL	ferritin	serum		male	ng/mL	15		200		USMLE Step 1
 ferritin-serum-female-μg/L	ferritin	serum		female	μg/L	12		150		USMLE Step 1
 ferritin-serum-male-μg/L	ferritin	serum		male	μg/L	15		200		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-male-mIU/mL	follicle-stimulating hormone	serum/plasma		male	mIU/mL	4		25		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-premenopause-female-mIU/mL	follicle-stimulating hormone	serum/plasma, premenopause		female	mIU/mL	4		30		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-mIU/mL	follicle-stimulating hormone	serum/plasma, midcycle peak		female	mIU/mL	10		90		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-postmenopause-female-mIU/mL	follicle-stimulating hormone	serum/plasma, postmenopause		female	mIU/mL	40		250		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-male-U/L	follicle-stimulating hormone	serum/plasma		male	U/L	4		25		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-premenopause-female-U/L	follicle-stimulating hormone	serum/plasma, premenopause		female	U/L	4		30		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-U/L	follicle-stimulating hormone	serum/plasma, midcycle peak		female	U/L	10		90		USMLE Step 1
-follicle-stimulating_hormone-serum/plasma-postmenopause-female-U/L	follicle-stimulating hormone	serum/plasma, postmenopause		female	U/L	40		250		USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-male-mIU/mL	follicle-stimulating hormone	serum/plasma		male	mIU/mL	4	HP:0030341	25	HP:0008232	USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-premenopause-female-mIU/mL	follicle-stimulating hormone	serum/plasma, premenopause		female	mIU/mL	4	HP:0030341	30	HP:0008232	USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-mIU/mL	follicle-stimulating hormone	serum/plasma, midcycle peak		female	mIU/mL	10	HP:0030341	90	HP:0008232	USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-postmenopause-female-mIU/mL	follicle-stimulating hormone	serum/plasma, postmenopause		female	mIU/mL	40	HP:0030341	250	HP:0008232	USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-male-U/L	follicle-stimulating hormone	serum/plasma		male	U/L	4	HP:0030341	25	HP:0008232	USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-premenopause-female-U/L	follicle-stimulating hormone	serum/plasma, premenopause		female	U/L	4	HP:0030341	30	HP:0008232	USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-U/L	follicle-stimulating hormone	serum/plasma, midcycle peak		female	U/L	10	HP:0030341	90	HP:0008232	USMLE Step 1
+follicle-stimulating_hormone-serum/plasma-postmenopause-female-U/L	follicle-stimulating hormone	serum/plasma, postmenopause		female	U/L	40	HP:0030341	250	HP:0008232	USMLE Step 1
 gamma_globulin-cerebrospinal_fluid-percent	gamma globulin	cerebrospinal fluid		N/A	percent	3		12		USMLE Step 1
 globulin-serum-g/dL	globulin	serum	Proteins	N/A	g/dL	2.3		3.5		USMLE Step 1
 globulin-serum-g/L	globulin	serum	Proteins	N/A	g/L	23		35		USMLE Step 1
@@ -95,26 +96,26 @@ growth_hormone-serum-provocative_arginine_stimulation-ng/mL	growth hormone	serum
 growth_hormone-serum-provocative_arginine_stimulation-μg/L	growth hormone	serum, provocative arginine stimulation		N/A	μg/L	7		N/A		USMLE Step 1
 hematocrit-blood-male-percent	hematocrit	blood	Complete Blood Count	male	percent	41		53		USMLE Step 1, Lab Tests Online
 hematocrit-blood-female-percent	hematocrit	blood	Complete Blood Count	female	percent	36		46		USMLE Step 1, Lab Tests Online
-hemoglobin-blood-male-g/dL	hemoglobin	blood	Complete Blood Count	male	g/dL	13.5		17.5		USMLE Step 1
-hemoglobin-blood-male-mmol/L	hemoglobin	blood	Complete Blood Count	male	mmol/L	1.09		2.71		USMLE Step 1
-hemoglobin-blood-female-g/dL	hemoglobin	blood	Complete Blood Count	female	g/dL	12		16		USMLE Step 1
-hemoglobin-blood-female-mmol/L	hemoglobin	blood	Complete Blood Count	female	mmol/L	1.86		2.48		USMLE Step 1
-hemoglobin-plasma-mg/dL	hemoglobin	plasma	Complete Blood Count	N/A	mg/dL	1		4		USMLE Step 1
-hemoglobin-plasma-mmol/L	hemoglobin	plasma	Complete Blood Count	N/A	mmol/L	0.16		0.62		USMLE Step 1
-hemoglobin_A1C--percent	hemoglobin A1C			N/A	percent	N/A		6		USMLE Step 1
-IgA-serum-mg/dL	IgA	serum	Immunoglobulins	N/A	mg/dL	76		390		USMLE Step 1
-IgA-serum-g/L	IgA	serum	Immunoglobulins	N/A	g/L	0.76		3.9		USMLE Step 1
-IgE-serum-IU/mL	IgE	serum	Immunoglobulins	N/A	IU/mL	0		380		USMLE Step 1
-IgE-serum-kIU/L	IgE	serum	Immunoglobulins	N/A	kIU/L	0		380		USMLE Step 1
-IgG-serum-mg/dL	IgG	serum	Immunoglobulins	N/A	mg/dL	650		1500		USMLE Step 1
-IgG-serum-g/L	IgG	serum	Immunoglobulins	N/A	g/L	6.5		15		USMLE Step 1
-IgM-serum-mg/dL	IgM	serum	Immunoglobulins	N/A	mg/dL	40		345		USMLE Step 1
-IgM-serum-g/L	IgM	serum	Immunoglobulins	N/A	g/L	0.4		3.45		USMLE Step 1
-iron--μg/dL	iron			N/A	μg/dL	50		170		USMLE Step 1
-iron--μmol/L	iron			N/A	μmol/L	9		30		USMLE Step 1
+hemoglobin-blood-male-g/dL	hemoglobin	blood	Complete Blood Count	male	g/dL	13.5	HP:0001903	17.5		USMLE Step 1
+hemoglobin-blood-male-mmol/L	hemoglobin	blood	Complete Blood Count	male	mmol/L	1.09	HP:0001903	2.71		USMLE Step 1
+hemoglobin-blood-female-g/dL	hemoglobin	blood	Complete Blood Count	female	g/dL	12	HP:0001903	16		USMLE Step 1
+hemoglobin-blood-female-mmol/L	hemoglobin	blood	Complete Blood Count	female	mmol/L	1.86	HP:0001903	2.48		USMLE Step 1
+hemoglobin-plasma-mg/dL	hemoglobin	plasma	Complete Blood Count	N/A	mg/dL	1	HP:0001903	4		USMLE Step 1
+hemoglobin-plasma-mmol/L	hemoglobin	plasma	Complete Blood Count	N/A	mmol/L	0.16	HP:0001903	0.62		USMLE Step 1
+hemoglobin_A1C-blood-percent	hemoglobin A1C	blood		N/A	percent	N/A		6		USMLE Step 1
+IgA-serum-mg/dL	IgA	serum	Immunoglobulins	N/A	mg/dL	76	HP:0002720	390	HP:0003261	USMLE Step 1
+IgA-serum-g/L	IgA	serum	Immunoglobulins	N/A	g/L	0.76	HP:0002720	3.9	HP:0003261	USMLE Step 1
+IgE-serum-IU/mL	IgE	serum	Immunoglobulins	N/A	IU/mL	0		380	HP:0003212	USMLE Step 1
+IgE-serum-kIU/L	IgE	serum	Immunoglobulins	N/A	kIU/L	0		380	HP:0003212	USMLE Step 1
+IgG-serum-mg/dL	IgG	serum	Immunoglobulins	N/A	mg/dL	650	HP:0004315	1500	HP:0003237	USMLE Step 1
+IgG-serum-g/L	IgG	serum	Immunoglobulins	N/A	g/L	6.5	HP:0004315	15	HP:0003237	USMLE Step 1
+IgM-serum-mg/dL	IgM	serum	Immunoglobulins	N/A	mg/dL	40	HP:0002850	345	HP:0003496	USMLE Step 1
+IgM-serum-g/L	IgM	serum	Immunoglobulins	N/A	g/L	0.4	HP:0002850	3.45	HP:0003496	USMLE Step 1
+iron-serum-μg/dL	iron	serum		N/A	μg/dL	50		170	HP:0003452	USMLE Step 1
+iron-serum-μmol/L	iron	serum		N/A	μmol/L	9		30	HP:0003452	USMLE Step 1
 lactate_dehydrogenase-serum-U/L	lactate dehydrogenase	serum		N/A	U/L	45		90		USMLE Step 1
-leukocyte_count--count/mm3	leukocyte count		Leukocytes	N/A	count/mm3	4500		11000		USMLE Step 1
-leukocyte_count--count/L	leukocyte count		Leukocytes	N/A	count/L	4500000000		11000000000		USMLE Step 1
+leukocyte_count-blood-count/mm3	leukocyte count	blood	Leukocytes	N/A	count/mm3	4500	HP:0001882	11000		USMLE Step 1
+leukocyte_count-blood-count/L	leukocyte count	blood	Leukocytes	N/A	count/L	4500000000	HP:0001882	11000000000		USMLE Step 1
 lutenizing_hormone-serum/plasma-male-mIU/mL	lutenizing hormone	serum/plasma		male	mIU/mL	6		23		USMLE Step 1
 lutenizing_hormone-serum/plasma-follicular_phase-female-mIU/mL	lutenizing hormone	serum/plasma, follicular phase		female	mIU/mL	5		30		USMLE Step 1
 lutenizing_hormone-serum/plasma-midcycle-female-mIU/mL	lutenizing hormone	serum/plasma, midcycle		female	mIU/mL	75		150		USMLE Step 1
@@ -123,65 +124,65 @@ lutenizing_hormone-serum/plasma-male-U/L	lutenizing hormone	serum/plasma		male	U
 lutenizing_hormone-serum/plasma-follicular_phase-female-U/L	lutenizing hormone	serum/plasma, follicular phase		female	U/L	5		30		USMLE Step 1
 lutenizing_hormone-serum/plasma-midcycle-female-U/L	lutenizing hormone	serum/plasma, midcycle		female	U/L	75		150		USMLE Step 1
 lutenizing_hormone-serum/plasma-postmenopause-female-U/L	lutenizing hormone	serum/plasma, postmenopause		female	U/L	30		200		USMLE Step 1
-lymphocytes--percent	lymphocytes		Leukocytes	N/A	percent	25		33		USMLE Step 1
-magnesium-serum-mEq/L	magnesium	serum	Electrolytes	N/A	mEq/L	1.5		2		USMLE Step 1
-magnesium-serum-mmol/L	magnesium	serum	Electrolytes	N/A	mmol/L	0.75		1		USMLE Step 1
-mean_corpuscular_hemoglobin--pg/cell	mean corpuscular hemoglobin			N/A	pg/cell	25.4		34.6		USMLE Step 1
-mean_corpuscular_hemoglobin--fmol/cell	mean corpuscular hemoglobin			N/A	fmol/cell	0.39		0.54		USMLE Step 1
-mean_corpuscular_hemoglobin_concentration--percent_Hb/cell	mean corpuscular hemoglobin concentration			N/A	percent Hb/cell	31		36		USMLE Step 1
-mean_corpuscular_hemoglobin_concentration--mmol_Hb/L	mean corpuscular hemoglobin concentration			N/A	mmol Hb/L	4.81		5.58		USMLE Step 1
-mean_corpuscular_volume--μm3	mean corpuscular volume			N/A	μm3	80		100		USMLE Step 1
-mean_corpuscular_volume--fL	mean corpuscular volume			N/A	fL	80		100		USMLE Step 1
-monocytes--percent	monocytes		Leukocytes	N/A	percent	3		7		USMLE Step 1
+lymphocytes-blood-percent	lymphocytes	blood	Leukocytes	N/A	percent	25		33		USMLE Step 1
+magnesium-serum-mEq/L	magnesium	serum	Electrolytes	N/A	mEq/L	1.5	HP:0002917	2		USMLE Step 1
+magnesium-serum-mmol/L	magnesium	serum	Electrolytes	N/A	mmol/L	0.75	HP:0002917	1		USMLE Step 1
+mean_corpuscular_hemoglobin-blood-pg/cell	mean corpuscular hemoglobin	blood		N/A	pg/cell	25.4		34.6		USMLE Step 1
+mean_corpuscular_hemoglobin-blood-fmol/cell	mean corpuscular hemoglobin	blood		N/A	fmol/cell	0.39		0.54		USMLE Step 1
+mean_corpuscular_hemoglobin_concentration-blood-percent_Hb/cell	mean corpuscular hemoglobin concentration	blood		N/A	percent Hb/cell	31		36		USMLE Step 1
+mean_corpuscular_hemoglobin_concentration-blood-mmol_Hb/L	mean corpuscular hemoglobin concentration	blood		N/A	mmol Hb/L	4.81		5.58		USMLE Step 1
+mean_corpuscular_volume-blood-μm3	mean corpuscular volume	blood		N/A	μm3	80		100		USMLE Step 1
+mean_corpuscular_volume-blood-fL	mean corpuscular volume	blood		N/A	fL	80		100		USMLE Step 1
+monocytes-blood-percent	monocytes	blood	Leukocytes	N/A	percent	3	HP:0012312	7	HP:0012311	USMLE Step 1
 osmolarity-serum-mOsmol/kg_H2O	osmolarity	serum		N/A	mOsmol/kg H2O	275		295		USMLE Step 1
 osmolarity-urine-mOsmol/kg_H2O	osmolarity	urine		N/A	mOsmol/kg H2O	50		1400		USMLE Step 1
-oxalate-urine-μg/mL	oxalate	urine		N/A	μg/mL	8		40		USMLE Step 1
-oxalate-urine-μmol/L	oxalate	urine		N/A	μmol/L	90		445		USMLE Step 1
-parathyroid_hormone-serum-N-terminal-pg/mL	parathyroid hormone	serum, N-terminal		N/A	pg/mL	230		630		USMLE Step 1
-parathyroid_hormone-serum-N-terminal-ng/L	parathyroid hormone	serum, N-terminal		N/A	ng/L	230		630		USMLE Step 1
-partial_thromboplastin_time-activated-seconds	partial thromboplastin time	activated		N/A	seconds	25		40		USMLE Step 1
+oxalate-urine-μg/mL	oxalate	urine		N/A	μg/mL	8		40	HP:0003159	USMLE Step 1
+oxalate-urine-μmol/L	oxalate	urine		N/A	μmol/L	90		445	HP:0003159	USMLE Step 1
+parathyroid_hormone-serum-N-terminal-pg/mL	parathyroid hormone	serum, N-terminal		N/A	pg/mL	230		630	HP:0000843	USMLE Step 1
+parathyroid_hormone-serum-N-terminal-ng/L	parathyroid hormone	serum, N-terminal		N/A	ng/L	230		630	HP:0000843	USMLE Step 1
+partial_thromboplastin_time-activated-seconds	partial thromboplastin time	activated		N/A	seconds	25		40	HP:0003645	USMLE Step 1
 PCO2-arterial_blood-room_air-mm_Hg	PCO2	arterial blood, room air	Arterial blood gases	N/A	mm Hg	33		45		USMLE Step 1
 PCO2-arterial_blood-room_air-kPa	PCO2	arterial blood, room air	Arterial blood gases	N/A	kPa	4.4		5.9		USMLE Step 1
 pH-arterial_blood-room_air-	pH	arterial blood, room air	Arterial blood gases	N/A	N/A	7.35		7.45		USMLE Step 1
 pH-arterial_blood-room_air-nmol/L	pH	arterial blood, room air	Arterial blood gases	N/A	nmol/L	36		44		USMLE Step 1
 phosphorus-serum-mg/dL	phosphorus	serum		N/A	mg/dL	3		4.5		USMLE Step 1
 phosphorus-serum-mmol/L	phosphorus	serum		N/A	mmol/L	1		1.5		USMLE Step 1
-plasma_volume-male-mL/kg	plasma volume			male	mL/kg	25		43		USMLE Step 1
-plasma_volume-male-L/kg	plasma volume			male	L/kg	0.025		0.043		USMLE Step 1
-plasma_volume-female-mL/kg	plasma volume			female	mL/kg	28		45		USMLE Step 1
-plasma_volume-female-L/kg	plasma volume			female	L/kg	0.028		0.045		USMLE Step 1
-platelet_count-blood-count/mm3	platelet count	blood		N/A	count/mm3	150000		400000		USMLE Step 1
-platelet_count-blood-count/L	platelet count	blood		N/A	count/L	150000000000		400000000000		USMLE Step 1
+plasma_volume-male-mL/kg	plasma volume	N/A		male	mL/kg	25		43		USMLE Step 1
+plasma_volume-male-L/kg	plasma volume	N/A		male	L/kg	0.025		0.043		USMLE Step 1
+plasma_volume-female-mL/kg	plasma volume	N/A		female	mL/kg	28		45		USMLE Step 1
+plasma_volume-female-L/kg	plasma volume	N/A		female	L/kg	0.028		0.045		USMLE Step 1
+platelet_count-blood-count/mm3	platelet count	blood		N/A	count/mm3	150000	HP:0001873	400000	HP:0001894	USMLE Step 1
+platelet_count-blood-count/L	platelet count	blood		N/A	count/L	150000000000	HP:0001873	400000000000	HP:0001894	USMLE Step 1
 PO2-arterial_blood-room_air-mm_Hg	PO2	arterial blood, room air	Arterial blood gases	N/A	mm Hg	75		105		USMLE Step 1
 PO2-arterial_blood-room_air-kPa	PO2	arterial blood, room air	Arterial blood gases	N/A	kPa	10		14		USMLE Step 1
-potassium-serum-mEq/L	potassium	serum	Electrolytes	N/A	mEq/L	3.5		5		USMLE Step 1
-potassium-serum-mmol/L	potassium	serum	Electrolytes	N/A	mmol/L	3.5		5		USMLE Step 1
+potassium-serum-mEq/L	potassium	serum	Electrolytes	N/A	mEq/L	3.5	HP:0002900	5	HP:0002153	USMLE Step 1
+potassium-serum-mmol/L	potassium	serum	Electrolytes	N/A	mmol/L	3.5	HP:0002900	5	HP:0002153	USMLE Step 1
 pressure-cerebrospinal_fluid-mm_H2O	pressure	cerebrospinal fluid		N/A	mm H2O	70		180		USMLE Step 1
-prolactin-serum-ng/mL	prolactin	serum		N/A	ng/mL	N/A		20		USMLE Step 1
-prolactin-serum-μg/L	prolactin	serum		N/A	μg/L	N/A		20		USMLE Step 1
+prolactin-serum-ng/mL	prolactin	serum		N/A	ng/mL	N/A	HP:0040086	20	HP:0040086	USMLE Step 1
+prolactin-serum-μg/L	prolactin	serum		N/A	μg/L	N/A	HP:0040086	20	HP:0040086	USMLE Step 1
 proteins-serum-total-recumbent-g/dL	proteins	serum, total, recumbent	Proteins	N/A	g/dL	6		7.8		USMLE Step 1
 proteins-serum-total-recumbent-g/L	proteins	serum, total, recumbent	Proteins	N/A	g/L	60		78		USMLE Step 1
 proteins-cerebrospinal_fluid-total-mg/dL	proteins	cerebrospinal fluid, total		N/A	mg/dL	N/A		40		USMLE Step 1
 proteins-cerebrospinal_fluid-total-g/L	proteins	cerebrospinal fluid, total		N/A	g/L	N/A		0.4		USMLE Step 1
 proteins-urine-total-mg/24_h	proteins	urine, total		N/A	mg/24 h	N/A		150		USMLE Step 1
 proteins-urine-total-g/24_h	proteins	urine, total		N/A	g/24 h	N/A		0.15		USMLE Step 1
-prothrombin_time--seconds	prothrombin time			N/A	seconds	11		15		USMLE Step 1
-red_cell_volume-male-mL/kg	red cell volume			male	mL/kg	20		36		USMLE Step 1
-red_cell_volume-male-L/kg	red cell volume			male	L/kg	0.02		0.036		USMLE Step 1
-red_cell_volume-female-mL/kg	red cell volume			female	mL/kg	19		31		USMLE Step 1
-red_cell_volume-female-L/kg	red cell volume			female	L/kg	0.019		0.031		USMLE Step 1
-reticulocyte_count--percent	reticulocyte count			N/A	percent	0.5		1.5		USMLE Step 1
-segmented_neutrophils--percent	segmented neutrophils		Leukocytes	N/A	percent	54		62		USMLE Step 1
-sodium-serum-mEq/L	sodium	serum	Electrolytes	N/A	mEq/L	136		145		USMLE Step 1
-sodium-serum-mmol/L	sodium	serum	Electrolytes	N/A	mmol/L	136		145		USMLE Step 1
+prothrombin_time--seconds	prothrombin time	N/A		N/A	seconds	11	HP:0032198	15	HP:0008151	USMLE Step 1
+red_cell_volume-blood-male-mL/kg	red cell volume	blood		male	mL/kg	20		36		USMLE Step 1
+red_cell_volume-blood-male-L/kg	red cell volume	blood		male	L/kg	0.02		0.036		USMLE Step 1
+red_cell_volume-blood-female-mL/kg	red cell volume	blood		female	mL/kg	19		31		USMLE Step 1
+red_cell_volume-blood-female-L/kg	red cell volume	blood		female	L/kg	0.019		0.031		USMLE Step 1
+reticulocyte_count-blood-percent	reticulocyte count	blood		N/A	percent	0.5		1.5		USMLE Step 1
+segmented_neutrophils-blood-percent	segmented neutrophils	blood	Leukocytes	N/A	percent	54		62		USMLE Step 1
+sodium-serum-mEq/L	sodium	serum	Electrolytes	N/A	mEq/L	136	HP:0002902	145	HP:0003228	USMLE Step 1
+sodium-serum-mmol/L	sodium	serum	Electrolytes	N/A	mmol/L	136	HP:0002902	145	HP:0003228	USMLE Step 1
 thrombin_time-deviation_from_control-seconds	thrombin time	deviation from control		N/A	seconds	N/A		2		USMLE Step 1
 thyroid-stimulating_hormone-serum-μU/mL	thyroid-stimulating hormone	serum		N/A	μU/mL	0.5		5		USMLE Step 1
 thyroid-stimulating_hormone-plasma-μU/mL	thyroid-stimulating hormone	plasma		N/A	μU/mL	0.5		5		USMLE Step 1
 thyroid-stimulating_hormone-serum-mU/L	thyroid-stimulating hormone	serum		N/A	mU/L	0.5		5		USMLE Step 1
 thyroid-stimulating_hormone-plasma-mU/L	thyroid-stimulating hormone	plasma		N/A	mU/L	0.5		5		USMLE Step 1
 thyroidal_iodine_uptake-administered_dose_at_24_h-percent	thyroidal iodine uptake	administered dose at 24 h		N/A	percent	8		30		USMLE Step 1
-thyroxine-serum-μg/dL	thyroxine	serum		N/A	μg/dL	5		12		USMLE Step 1
-thyroxine-serum-nmol/L	thyroxine	serum		N/A	nmol/L	64		155		USMLE Step 1
+thyroxine-serum-μg/dL	thyroxine	serum		N/A	μg/dL	5	HP:0031507	12	HP:0031506	USMLE Step 1
+thyroxine-serum-nmol/L	thyroxine	serum		N/A	nmol/L	64	HP:0031507	155	HP:0031506	USMLE Step 1
 triglycerides-serum-mg/dL	triglycerides	serum		N/A	mg/dL	35		160		USMLE Step 1
 triglycerides-serum-mmol/L	triglycerides	serum		N/A	mmol/L	0.4		1.81		USMLE Step 1
 triiodothyronine-serum-ng/dL	triiodothyronine	serum		N/A	ng/dL	115		190		USMLE Step 1
@@ -189,11 +190,11 @@ triiodothyronine-serum-nmol/L	triiodothyronine	serum		N/A	nmol/L	1.8		2.9		USMLE
 triiodothyronine-resin_uptake-percent	triiodothyronine	resin uptake		N/A	percent	25		35		USMLE Step 1
 urea_nitrogen-serum-mg/dL	urea nitrogen	serum		N/A	mg/dL	7		18		USMLE Step 1
 urea_nitrogen-serum-mmol/L	urea nitrogen	serum		N/A	mmol/L	1.2		3		USMLE Step 1
-uric_acid-serum-mg/dL	uric acid	serum		N/A	mg/dL	3		8.2		USMLE Step 1
-uric_acid-serum-mmol/L	uric acid	serum		N/A	mmol/L	0.18		0.48		USMLE Step 1
-troponin_I-serum-ng/mL	troponin I	serum		N/A	ng/mL	N/A		0.04		Lab Tests Online, Mayo Clinic Labs
+uric_acid-serum-mg/dL	uric acid	serum		N/A	mg/dL	3	HP:0003537	8.2	HP:0002149	USMLE Step 1
+uric_acid-serum-mmol/L	uric acid	serum		N/A	mmol/L	0.18	HP:0003537	0.48	HP:0002149	USMLE Step 1
+troponin_I-serum-ng/mL	troponin I	serum		N/A	ng/mL	N/A		0.04	HP:0410173	Lab Tests Online, Mayo Clinic Labs
 myoglobin-serum-μg/L	myoglobin	serum		N/A	μg/L	N/A		90		Lab Tests Online, Mayo Clinic Labs
-myoglobin-urine-μg/L	myoglobin	urine		N/A	μg/L	N/A		65		Lab Tests Online, Mayo Clinic Labs
+myoglobin-urine-μg/L	myoglobin	urine		N/A	μg/L	N/A		65	HP:0002913	Lab Tests Online, Mayo Clinic Labs
 brain_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	brain natriuretic peptide	serum, 45 years old or younger		male	pg/mL	N/A		35		Lab Tests Online, Mayo Clinic Labs
 brain_natriuretic_peptide-serum-46_years_old-male-pg/mL	brain natriuretic peptide	serum, 46 years old		male	pg/mL	N/A		36		Lab Tests Online, Mayo Clinic Labs
 brain_natriuretic_peptide-serum-47_years_old-male-pg/mL	brain natriuretic peptide	serum, 47 years old		male	pg/mL	N/A		37		Lab Tests Online, Mayo Clinic Labs
@@ -272,86 +273,86 @@ brain_natriuretic_peptide-serum-80_years_old-female-pg/mL	brain natriuretic pept
 brain_natriuretic_peptide-serum-81_years_old-female-pg/mL	brain natriuretic peptide	serum, 81 years old		female	pg/mL	N/A		159		Lab Tests Online, Mayo Clinic Labs
 brain_natriuretic_peptide-serum-82_years_old-female-pg/mL	brain natriuretic peptide	serum, 82 years old		female	pg/mL	N/A		163		Lab Tests Online, Mayo Clinic Labs
 brain_natriuretic_peptide-serum-83_years_old_or_older-female-pg/mL	brain natriuretic peptide	serum, 83 years old or older		female	pg/mL	N/A		167		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 45 years old or younger		male	pg/mL	10		51		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-46_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 46 years old		male	pg/mL	10		53		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-47_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 47 years old		male	pg/mL	10		55		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-48_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 48 years old		male	pg/mL	10		56		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-49_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 49 years old		male	pg/mL	10		58		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-50_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 50 years old		male	pg/mL	10		59		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-51_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 51 years old		male	pg/mL	10		61		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-52_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 52 years old		male	pg/mL	10		62		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-53_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 53 years old		male	pg/mL	10		64		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-54_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 54 years old		male	pg/mL	10		67		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-55_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 55 years old		male	pg/mL	10		68		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-56_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 56 years old		male	pg/mL	10		70		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-57_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 57 years old		male	pg/mL	10		71		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-58_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 58 years old		male	pg/mL	10		73		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-59_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 59 years old		male	pg/mL	10		76		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-60_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 60 years old		male	pg/mL	10		77		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-61_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 61 years old		male	pg/mL	10		79		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-62_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 62 years old		male	pg/mL	10		82		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-63_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 63 years old		male	pg/mL	10		83		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-64_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 64 years old		male	pg/mL	10		85		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-65_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 65 years old		male	pg/mL	10		88		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-66_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 66 years old		male	pg/mL	10		89		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-67_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 67 years old		male	pg/mL	10		92		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-68_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 68 years old		male	pg/mL	10		95		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-69_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 69 years old		male	pg/mL	10		97		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-70_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 70 years old		male	pg/mL	10		100		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-71_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 71 years old		male	pg/mL	10		103		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-72_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 72 years old		male	pg/mL	10		104		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-73_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 73 years old		male	pg/mL	10		107		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-74_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 74 years old		male	pg/mL	10		110		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-75_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 75 years old		male	pg/mL	10		113		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-76_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 76 years old		male	pg/mL	10		116		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-77_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 77 years old		male	pg/mL	10		119		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-78_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 78 years old		male	pg/mL	10		122		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-79_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 79 years old		male	pg/mL	10		125		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-80_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 80 years old		male	pg/mL	10		128		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-81_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 81 years old		male	pg/mL	10		131		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-82_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 82 years old		male	pg/mL	10		135		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-83_years_old_or_older-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 83 years old or older		male	pg/mL	10		138		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-46_years_old_or_younger-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 46 years old or younger		female	pg/mL	10		140		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-47_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 47 years old		female	pg/mL	10		141		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-48_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 48 years old		female	pg/mL	10		144		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-49_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 49 years old		female	pg/mL	10		146		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-50_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 50 years old		female	pg/mL	10		149		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-51_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 51 years old		female	pg/mL	10		150		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-52_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 52 years old		female	pg/mL	10		152		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-53_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 53 years old		female	pg/mL	10		155		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-54_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 54 years old		female	pg/mL	10		157		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-55_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 55 years old		female	pg/mL	10		160		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-56_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 56 years old		female	pg/mL	10		162		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-57_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 57 years old		female	pg/mL	10		166		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-58_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 58 years old		female	pg/mL	10		168		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-59_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 59 years old		female	pg/mL	10		171		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-60_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 60 years old		female	pg/mL	10		173		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-61_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 61 years old		female	pg/mL	10		177		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-62_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 62 years old		female	pg/mL	10		179		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-63_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 63 years old		female	pg/mL	10		183		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-64_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 64 years old		female	pg/mL	10		185		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-65_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 65 years old		female	pg/mL	10		189		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-66_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 66 years old		female	pg/mL	10		193		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-67_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 67 years old		female	pg/mL	10		196		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-68_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 68 years old		female	pg/mL	10		199		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-69_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 69 years old		female	pg/mL	10		202		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-70_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 70 years old		female	pg/mL	10		206		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-71_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 71 years old		female	pg/mL	10		210		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-72_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 72 years old		female	pg/mL	10		214		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-73_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 73 years old		female	pg/mL	10		218		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-74_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 74 years old		female	pg/mL	10		222		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-75_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 75 years old		female	pg/mL	10		227		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-76_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 76 years old		female	pg/mL	10		230		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-77_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 77 years old		female	pg/mL	10		235		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-78_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 78 years old		female	pg/mL	10		239		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-79_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 79 years old		female	pg/mL	10		244		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-80_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 80 years old		female	pg/mL	10		248		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-81_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 81 years old		female	pg/mL	10		253		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-82_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 82 years old		female	pg/mL	10		258		Lab Tests Online, Mayo Clinic Labs
-N-terminal_pro_b-type_natriuretic_peptide-serum-83_years_old_or_older-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 83 years old or older		female	pg/mL	10		263		Lab Tests Online, Mayo Clinic Labs
-high-sensitivity_C-reactive_protein-serum-mg/L	high-sensitivity C-reactive protein	serum		N/A	mg/L	N/A		2		Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-45_years_old_or_younger-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 45 years old or younger		male	pg/mL	10		51	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-46_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 46 years old		male	pg/mL	10		53	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-47_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 47 years old		male	pg/mL	10		55	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-48_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 48 years old		male	pg/mL	10		56	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-49_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 49 years old		male	pg/mL	10		58	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-50_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 50 years old		male	pg/mL	10		59	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-51_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 51 years old		male	pg/mL	10		61	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-52_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 52 years old		male	pg/mL	10		62	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-53_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 53 years old		male	pg/mL	10		64	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-54_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 54 years old		male	pg/mL	10		67	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-55_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 55 years old		male	pg/mL	10		68	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-56_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 56 years old		male	pg/mL	10		70	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-57_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 57 years old		male	pg/mL	10		71	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-58_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 58 years old		male	pg/mL	10		73	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-59_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 59 years old		male	pg/mL	10		76	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-60_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 60 years old		male	pg/mL	10		77	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-61_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 61 years old		male	pg/mL	10		79	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-62_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 62 years old		male	pg/mL	10		82	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-63_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 63 years old		male	pg/mL	10		83	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-64_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 64 years old		male	pg/mL	10		85	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-65_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 65 years old		male	pg/mL	10		88	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-66_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 66 years old		male	pg/mL	10		89	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-67_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 67 years old		male	pg/mL	10		92	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-68_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 68 years old		male	pg/mL	10		95	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-69_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 69 years old		male	pg/mL	10		97	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-70_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 70 years old		male	pg/mL	10		100	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-71_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 71 years old		male	pg/mL	10		103	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-72_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 72 years old		male	pg/mL	10		104	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-73_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 73 years old		male	pg/mL	10		107	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-74_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 74 years old		male	pg/mL	10		110	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-75_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 75 years old		male	pg/mL	10		113	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-76_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 76 years old		male	pg/mL	10		116	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-77_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 77 years old		male	pg/mL	10		119	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-78_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 78 years old		male	pg/mL	10		122	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-79_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 79 years old		male	pg/mL	10		125	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-80_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 80 years old		male	pg/mL	10		128	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-81_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 81 years old		male	pg/mL	10		131	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-82_years_old-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 82 years old		male	pg/mL	10		135	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-83_years_old_or_older-male-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 83 years old or older		male	pg/mL	10		138	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-46_years_old_or_younger-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 46 years old or younger		female	pg/mL	10		140	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-47_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 47 years old		female	pg/mL	10		141	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-48_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 48 years old		female	pg/mL	10		144	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-49_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 49 years old		female	pg/mL	10		146	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-50_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 50 years old		female	pg/mL	10		149	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-51_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 51 years old		female	pg/mL	10		150	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-52_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 52 years old		female	pg/mL	10		152	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-53_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 53 years old		female	pg/mL	10		155	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-54_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 54 years old		female	pg/mL	10		157	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-55_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 55 years old		female	pg/mL	10		160	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-56_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 56 years old		female	pg/mL	10		162	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-57_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 57 years old		female	pg/mL	10		166	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-58_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 58 years old		female	pg/mL	10		168	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-59_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 59 years old		female	pg/mL	10		171	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-60_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 60 years old		female	pg/mL	10		173	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-61_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 61 years old		female	pg/mL	10		177	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-62_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 62 years old		female	pg/mL	10		179	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-63_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 63 years old		female	pg/mL	10		183	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-64_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 64 years old		female	pg/mL	10		185	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-65_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 65 years old		female	pg/mL	10		189	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-66_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 66 years old		female	pg/mL	10		193	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-67_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 67 years old		female	pg/mL	10		196	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-68_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 68 years old		female	pg/mL	10		199	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-69_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 69 years old		female	pg/mL	10		202	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-70_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 70 years old		female	pg/mL	10		206	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-71_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 71 years old		female	pg/mL	10		210	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-72_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 72 years old		female	pg/mL	10		214	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-73_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 73 years old		female	pg/mL	10		218	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-74_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 74 years old		female	pg/mL	10		222	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-75_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 75 years old		female	pg/mL	10		227	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-76_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 76 years old		female	pg/mL	10		230	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-77_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 77 years old		female	pg/mL	10		235	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-78_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 78 years old		female	pg/mL	10		239	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-79_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 79 years old		female	pg/mL	10		244	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-80_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 80 years old		female	pg/mL	10		248	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-81_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 81 years old		female	pg/mL	10		253	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-82_years_old-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 82 years old		female	pg/mL	10		258	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+N-terminal_pro_b-type_natriuretic_peptide-serum-83_years_old_or_older-female-pg/mL	N-terminal pro b-type natriuretic peptide	serum, 83 years old or older		female	pg/mL	10		263	HP:0031185	Lab Tests Online, Mayo Clinic Labs
+high-sensitivity_C-reactive_protein-serum-mg/L	high-sensitivity C-reactive protein	serum		N/A	mg/L	N/A		2	HP:0011227	Lab Tests Online, Mayo Clinic Labs
 lipoprotein_(a)-serum-fasting-mg/dL	lipoprotein (a)	serum, fasting		N/A	mg/dL	N/A		30		Mayo Clinic Labs
-apolipoprotein_B-serum-fasting-mg/dL	apolipoprotein B	serum, fasting		N/A	mg/dL	N/A		90		Mayo Clinic Labs
+apolipoprotein_B-serum-fasting-mg/dL	apolipoprotein B	serum, fasting		N/A	mg/dL	N/A		90	HP:0031798	Mayo Clinic Labs
 heart_rate-resting-bpm	heart rate	resting		N/A	bpm	60	HP:0001662	100	HP:0001649	
 respiratory_rate-resting-breaths/min	respiratory rate	resting		N/A	breaths/min	12	HP:0002791	25	HP:0002883	
 systolic_blood_pressure-resting-mm_Hg	systolic blood pressure	resting		N/A	mm Hg	90	HP:0002615	140	HP:0000822	
@@ -367,3 +368,17 @@ prostate_specific_antigen-serum-50_to_59_years_old-male-ng/mL	prostate specific 
 prostate_specific_antigen-serum-60_to_69_years_old-male-ng/mL	prostate specific antigen	serum, 60 to 69 years old		male	ng/mL	N/A		4.5		Mayo Clinic Labs
 prostate_specific_antigen-serum-70_to_79_years_old-male-ng/mL	prostate specific antigen	serum, 70 to 79 years old		male	ng/mL	N/A		6.5		Mayo Clinic Labs
 prostate_specific_antigen-serum-80_years_old_or_older-male-ng/mL	prostate specific antigen	serum, 80 years old or older		male	ng/mL	N/A		7.2		Mayo Clinic Labs
+ethanolamine-urine-24_h-mg/dL	ethanolamine	urine, 24 h		N/A	mg/dL	0		3.1		Tietz
+ethanolamine-urine-24_h-μmol/L	ethanolamine	urine, 24 h		N/A	μmol/L	0		520		Tietz
+ethanolamine-cerebrospinal_fluid-mg/dL	ethanolamine	cerebrospinal fluid		N/A	mg/dL	0.065		0.083		Tietz
+ethanolamine-cerebrospinal_fluid-μmol/L	ethanolamine	cerebrospinal fluid		N/A	μmol/L	10.6		13.6		Tietz
+erythropoietin-serum-mU/mL	erythropoietin	serum		N/A	mU/mL	5		30		Tietz
+dioxane-plasma-mg/L	dioxane	plasma		N/A	mg/L	N/A		12		Tietz
+dioxane-plasma-μmol/L	dioxane	plasma		N/A	μmol/L	N/A		137		Tietz
+dioxane-urine-mg/L	dioxane	urine		N/A	mg/L	N/A		8		Tietz
+dioxane-urine-μmol/L	dioxane	urine		N/A	μmol/L	N/A		91		Tietz
+d-dimer-plasma-μg/mL	d-dimer	plasma		N/A	μg/mL	N/A		0.5		Tietz, Mayo Clinic Labs
+cyanide-serum-mg/L	cyanide	serum		N/A	mg/L	N/A		0.1		Tietz
+cyanide-serum-μmol/L	cyanide	serum		N/A	μmol/L	N/A		3.84		Tietz
+cyanide-blood-mg/L	cyanide	blood		N/A	mg/L	N/A		1		Tietz
+cyanide-blood-μmol/L	cyanide	blood		N/A	μmol/L	N/A		38.4		Tietz

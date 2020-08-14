@@ -1,26 +1,26 @@
 Measurement	Abbreviations
-17-hydroxycorticosteroids	
+17-hydroxycorticosteroids	17-OHCS
 17-ketosteroids	17-KS, 17KS
 alanine aminotransferase	ALT
-albumin	
-alkaline phosphatase	
-amylase	
+albumin	AL, ALB
+alkaline phosphatase	AP, ALP, ALKP, Alk Phos
+amylase	AMS
 apolipoprotein B	ApoB
 aspartate aminotransferase	AST
 bands	N-bands, PMN, PNM
-basophils	
+basophils	BASO, BAS
 bicarbonate	HCO3-
 bilirubin	Bil
-bleeding time	
+bleeding time	BT
 body height	height
 body mass index	BMI
-body temperature	
+body temperature	BT
 body weight	weight
 brain natriuretic peptide	BNP, B-Type Natriuretic Peptide
 calcium	Ca2+, Ca
-cell count	
+cell count	CBC
 chloride	Cl-
-cholesterol	
+cholesterol	CHOL
 cortisol	
 creatine kinase	CK
 creatinine	Cr
@@ -104,5 +104,9 @@ HDL cholesterol
 blood urea nitrogen	BUN
 tropomyosin	
 left ventricular ejection fraction	LVEF, EF
-homocitrulline	
+homocitrulline	Hcit
 troponin T	TnT, cTnT
+zinc	Zn
+xylene	
+vitamin k	VK, VITK
+vitamin e	α-TE

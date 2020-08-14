@@ -29,11 +29,11 @@ calcium-urine-mg/24_h	calcium	urine		N/A	mg/24 h	100		300		USMLE Step 1
 calcium-urine-mmol/24_h	calcium	urine		N/A	mmol/24 h	2.5		7.5		USMLE Step 1
 cell_count-cerebrospinal_fluid-count/mm3	cell count	cerebrospinal fluid		N/A	count/mm3	0		5		USMLE Step 1
 cell_count-cerebrospinal_fluid-count/L	cell count	cerebrospinal fluid		N/A	count/L	0		5000000		USMLE Step 1
-chloride-serum-mEq/L	chloride	serum	Electrolytes	N/A	mEq/L	95		105		USMLE Step 1
-chloride-serum-mmol/L	chloride	serum	Electrolytes	N/A	mmol/L	95		105		USMLE Step 1
+chloride-serum-mEq/L	chloride	serum	Electrolytes	N/A	mEq/L	95	HP:0003113	105	HP:0011423	USMLE Step 1
+chloride-serum-mmol/L	chloride	serum	Electrolytes	N/A	mmol/L	95	HP:0003113	105	HP:0011423	USMLE Step 1
 chloride-cerebrospinal_fluid-mEq/L	chloride	cerebrospinal fluid		N/A	mEq/L	118		132		USMLE Step 1
 chloride-cerebrospinal_fluid-mmol/L	chloride	cerebrospinal fluid		N/A	mmol/L	118		132		USMLE Step 1
-chloride-sweat-mmol/L	chloride	sweat		N/A	mmol/L	0		35		USMLE Step 1
+chloride-sweat-mmol/L	chloride	sweat		N/A	mmol/L	0		35	HP:0012236	USMLE Step 1
 cholesterol-serum-mg/dL	cholesterol	serum		N/A	mg/dL	N/A		200		USMLE Step 1
 cholesterol-serum-mmol/L	cholesterol	serum		N/A	mmol/L	N/A		5.2		USMLE Step 1
 cortisol-serum-0800_h-μg/dL	cortisol	serum, 0800 h		N/A	μg/dL	5		23		USMLE Step 1
@@ -41,8 +41,8 @@ cortisol-serum-1600_h-μg/dL	cortisol	serum, 1600 h		N/A	μg/dL	3		15		USMLE Ste
 cortisol-serum-2000_h-percent	cortisol	serum, 2000 h		N/A	percent	N/A		50		USMLE Step 1
 cortisol-serum-0800_h-nmol/L	cortisol	serum, 0800 h		N/A	nmol/L	138		635		USMLE Step 1
 cortisol-serum-1600_h-nmol/L	cortisol	serum, 1600 h		N/A	nmol/L	82		413		USMLE Step 1
-creatine_kinase-serum-male-U/L	creatine kinase	serum		male	U/L	39		308		Lab Tests Online, Mayo Clinic Labs
-creatine_kinase-serum-female-U/L	creatine kinase	serum		female	U/L	26		192		Lab Tests Online, Mayo Clinic Labs
+creatine_kinase-serum-male-U/L	creatine kinase	serum		male	U/L	39		308	HP:0003236	Lab Tests Online, Mayo Clinic Labs
+creatine_kinase-serum-female-U/L	creatine kinase	serum		female	U/L	26		192	HP:0003236	Lab Tests Online, Mayo Clinic Labs
 creatinine-serum-mg/dL	creatinine	serum		N/A	mg/dL	0.6		1.2		USMLE Step 1
 creatinine-serum-μmol/L	creatinine	serum		N/A	μmol/L	53		106		USMLE Step 1
 creatinine_clearance-urine-male-mL/min	creatinine clearance	urine		male	mL/min	97		137		USMLE Step 1
@@ -52,16 +52,16 @@ erythrocyte_count-blood-male-count/mm3	erythrocyte count	blood		male	count/mm3	4
 erythrocyte_count-blood-male-count/L	erythrocyte count	blood		male	count/L	4300000000000		5900000000000		USMLE Step 1
 erythrocyte_count-blood-female-count/mm3	erythrocyte count	blood		female	count/mm3	3500000		5500000		USMLE Step 1
 erythrocyte_count-blood-female-count/L	erythrocyte count	blood		female	count/L	3500000000000		5500000000000		USMLE Step 1
-erythrocyte_sedimentation_rate-blood-male-mm/h	erythrocyte sedimentation rate	blood		male	mm/h	0		15		USMLE Step 1, Tietz
-erythrocyte_sedimentation_rate-blood-female-mm/h	erythrocyte sedimentation rate	blood		female	mm/h	0		20		USMLE Step 1, Tietz
-estriol-serum-total-in_pregnancy_(24-28_wks)-female-ng/mL	estriol	serum, total, in pregnancy (24-28 wks)		female	ng/mL	30		170		USMLE Step 1
-estriol-serum-total-in_pregnancy_(28-32_wks)-female-ng/mL	estriol	serum, total, in pregnancy (28-32 wks)		female	ng/mL	40		220		USMLE Step 1
-estriol-serum-total-in_pregnancy_(32-36_wks)-female-ng/mL	estriol	serum, total, in pregnancy (32-36 wks)		female	ng/mL	60		280		USMLE Step 1
-estriol-serum-total-in_pregnancy_(36-40_wks)-female-ng/mL	estriol	serum, total, in pregnancy (36-40 wks)		female	ng/mL	80		350		USMLE Step 1
-estriol-serum-total-in_pregnancy_(24-28_wks)-female-nmol/L	estriol	serum, total, in pregnancy (24-28 wks)		female	nmol/L	104		590		USMLE Step 1
-estriol-serum-total-in_pregnancy_(28-32_wks)-female-nmol/L	estriol	serum, total, in pregnancy (28-32 wks)		female	nmol/L	140		760		USMLE Step 1
-estriol-serum-total-in_pregnancy_(32-36_wks)-female-nmol/L	estriol	serum, total, in pregnancy (32-36 wks)		female	nmol/L	208		970		USMLE Step 1
-estriol-serum-total-in_pregnancy_(36-40_wks)-female-nmol/L	estriol	serum, total, in pregnancy (36-40 wks)		female	nmol/L	280		1210		USMLE Step 1
+erythrocyte_sedimentation_rate-blood-male-mm/h	erythrocyte sedimentation rate	blood		male	mm/h	0	HP:0025022	15	HP:0003565	USMLE Step 1, Tietz
+erythrocyte_sedimentation_rate-blood-female-mm/h	erythrocyte sedimentation rate	blood		female	mm/h	0	HP:0025022	20	HP:0003565	USMLE Step 1, Tietz
+estriol-serum-total-in_pregnancy_(24-28_wks)-female-ng/mL	estriol	serum, total, in pregnancy (24-28 wks)		female	ng/mL	30	HP:0008073	170	HP:0025136	USMLE Step 1
+estriol-serum-total-in_pregnancy_(28-32_wks)-female-ng/mL	estriol	serum, total, in pregnancy (28-32 wks)		female	ng/mL	40	HP:0008073	220	HP:0025136	USMLE Step 1
+estriol-serum-total-in_pregnancy_(32-36_wks)-female-ng/mL	estriol	serum, total, in pregnancy (32-36 wks)		female	ng/mL	60	HP:0008073	280	HP:0025136	USMLE Step 1
+estriol-serum-total-in_pregnancy_(36-40_wks)-female-ng/mL	estriol	serum, total, in pregnancy (36-40 wks)		female	ng/mL	80	HP:0008073	350	HP:0025136	USMLE Step 1
+estriol-serum-total-in_pregnancy_(24-28_wks)-female-nmol/L	estriol	serum, total, in pregnancy (24-28 wks)		female	nmol/L	104	HP:0008073	590	HP:0025136	USMLE Step 1
+estriol-serum-total-in_pregnancy_(28-32_wks)-female-nmol/L	estriol	serum, total, in pregnancy (28-32 wks)		female	nmol/L	140	HP:0008073	760	HP:0025136	USMLE Step 1
+estriol-serum-total-in_pregnancy_(32-36_wks)-female-nmol/L	estriol	serum, total, in pregnancy (32-36 wks)		female	nmol/L	208	HP:0008073	970	HP:0025136	USMLE Step 1
+estriol-serum-total-in_pregnancy_(36-40_wks)-female-nmol/L	estriol	serum, total, in pregnancy (36-40 wks)		female	nmol/L	280	HP:0008073	1210	HP:0025136	USMLE Step 1
 estriol-urine-total-in_pregnancy_(30_wks)-female-mg/24_h	estriol	urine, total, in pregnancy (30 wks)		female	mg/24 h	6		18		USMLE Step 1
 estriol-urine-total-in_pregnancy_(30_wks)-female-μmol/24_h	estriol	urine, total, in pregnancy (30 wks)		female	μmol/24 h	21		62		USMLE Step 1
 estriol-urine-total-in_pregnancy_(35_wks)-female-mg/24_h	estriol	urine, total, in pregnancy (35 wks)		female	mg/24 h	9		28		USMLE Step 1
@@ -399,3 +399,11 @@ left_ventricular_ejection_fraction--percent	left ventricular ejection fraction	N
 homocitrulline-urine-mg/24_h	homocitrulline	urine		N/A	mg/24 h	N/A		11		Tietz
 homocitrulline-urine-μmol/24_h	homocitrulline	urine		N/A	μmol/24 h	N/A		58		Tietz
 troponin_T-serum-μg/L	troponin T	serum		N/A	μg/L	N/A		0.01	HP:0410174	Tietz
+zinc-serum-μg/dL	zinc	serum		N/A	μg/dL	70	HP:0031831	120	HP:0011424	Tietz
+zinc-serum-μmol/L	zinc	serum		N/A	μmol/L	10.7	HP:0031831	18.4	HP:0011424	Tietz
+xylene-blood-mg/L	xylene	blood		N/A	mg/L	N/A		3		Tietz
+xylene-blood-μmol/L	xylene	blood		N/A	μmol/L	N/A		28.3		Tietz
+vitamin_k-serum-ng/mL	vitamin k	serum		N/A	ng/mL	0.1	HP:0011892	2.2		Tietz
+vitamin_k-serum-nmol/L	vitamin k	serum		N/A	nmol/L	0.22	HP:0011892	4.88		Tietz
+vitamin_e-serum-mg/L	vitamin e	serum		N/A	mg/L	5.5	HP:0100513	18		Tietz
+vitamin_e-serum-μmol/L	vitamin e	serum		N/A	μmol/L	12	HP:0100513	42		Tietz

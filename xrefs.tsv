@@ -27,13 +27,13 @@ calcium-serum-mg/dL
 calcium-serum-mmol/L	
 calcium-urine-mg/24_h	
 calcium-urine-mmol/24_h	
-cell_count-cerebrospinal_fluid-count/mm3	
-cell_count-cerebrospinal_fluid-count/L	
+cell_count-cerebrospinal_fluid-count/mm3	19075-1
+cell_count-cerebrospinal_fluid-count/L	19075-1
 chloride-serum-mEq/L	
 chloride-serum-mmol/L	
 chloride-cerebrospinal_fluid-mEq/L	
 chloride-cerebrospinal_fluid-mmol/L	
-chloride-sweat-mmol/L	
+chloride-sweat-mmol/L	2077-6
 cholesterol-serum-mg/dL	2093-3
 cholesterol-serum-mmol/L	14647-2
 cortisol-serum-0800_h-μg/dL	
@@ -54,14 +54,14 @@ erythrocyte_count-blood-female-count/mm3
 erythrocyte_count-blood-female-count/L	
 erythrocyte_sedimentation_rate-blood-male-mm/h	
 erythrocyte_sedimentation_rate-blood-female-mm/h	
-estriol-serum-total-in_pregnancy_(24-28_wks)-female-ng/mL	
-estriol-serum-total-in_pregnancy_(28-32_wks)-female-ng/mL	
-estriol-serum-total-in_pregnancy_(32-36_wks)-female-ng/mL	
-estriol-serum-total-in_pregnancy_(36-40_wks)-female-ng/mL	
-estriol-serum-total-in_pregnancy_(24-28_wks)-female-nmol/L	
-estriol-serum-total-in_pregnancy_(28-32_wks)-female-nmol/L	
-estriol-serum-total-in_pregnancy_(32-36_wks)-female-nmol/L	
-estriol-serum-total-in_pregnancy_(36-40_wks)-female-nmol/L	
+estriol-serum-total-in_pregnancy_(24-28_wks)-female-ng/mL	2251-7
+estriol-serum-total-in_pregnancy_(28-32_wks)-female-ng/mL	2251-7
+estriol-serum-total-in_pregnancy_(32-36_wks)-female-ng/mL	2251-7
+estriol-serum-total-in_pregnancy_(36-40_wks)-female-ng/mL	2251-7
+estriol-serum-total-in_pregnancy_(24-28_wks)-female-nmol/L	15064-9
+estriol-serum-total-in_pregnancy_(28-32_wks)-female-nmol/L	15064-9
+estriol-serum-total-in_pregnancy_(32-36_wks)-female-nmol/L	15064-9
+estriol-serum-total-in_pregnancy_(36-40_wks)-female-nmol/L	15064-9
 estriol-urine-total-in_pregnancy_(30_wks)-female-mg/24_h	
 estriol-urine-total-in_pregnancy_(30_wks)-female-μmol/24_h	
 estriol-urine-total-in_pregnancy_(35_wks)-female-mg/24_h	
@@ -69,10 +69,10 @@ estriol-urine-total-in_pregnancy_(35_wks)-female-μmol/24_h
 estriol-urine-total-in_pregnancy_(40_wks)-female-mg/24_h	
 estriol-urine-total-in_pregnancy_(40_wks)-female-μmol/24_h	
 estriol-urine-total-male-μg/24_h	
-ferritin-serum-female-ng/mL	
-ferritin-serum-male-ng/mL	
-ferritin-serum-female-μg/L	
-ferritin-serum-male-μg/L	
+ferritin-serum-female-ng/mL	2276-4
+ferritin-serum-male-ng/mL	2276-4
+ferritin-serum-female-μg/L	2276-4
+ferritin-serum-male-μg/L	2276-4
 follicle-stimulating_hormone-serum/plasma-male-mIU/mL	
 follicle-stimulating_hormone-serum/plasma-premenopause-female-mIU/mL	
 follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-mIU/mL	
@@ -102,7 +102,7 @@ hemoglobin-blood-female-g/dL	718-7
 hemoglobin-blood-female-mmol/L	59260-0
 hemoglobin-plasma-mg/dL	721-1
 hemoglobin-plasma-mmol/L	25433-4
-hemoglobin_A1C-blood-percent	
+hemoglobin_A1C-blood-percent	4548-4
 IgA-serum-mg/dL	
 IgA-serum-g/L	
 IgE-serum-IU/mL	
@@ -113,7 +113,7 @@ IgM-serum-mg/dL
 IgM-serum-g/L	
 iron-serum-μg/dL	2498-4
 iron-serum-μmol/L	14798-3
-lactate_dehydrogenase-serum-U/L	
+lactate_dehydrogenase-serum-U/L	14804-9
 leukocyte_count-blood-count/mm3	
 leukocyte_count-blood-count/L	
 lutenizing_hormone-serum/plasma-male-mIU/mL	
@@ -166,7 +166,7 @@ proteins-cerebrospinal_fluid-total-mg/dL
 proteins-cerebrospinal_fluid-total-g/L	
 proteins-urine-total-mg/24_h	2889-4
 proteins-urine-total-g/24_h	2889-4
-prothrombin_time--seconds	
+prothrombin_time--seconds	5902-2
 red_cell_volume-blood-male-mL/kg	
 red_cell_volume-blood-male-L/kg	
 red_cell_volume-blood-female-mL/kg	
@@ -399,3 +399,11 @@ left_ventricular_ejection_fraction--percent	10230-1
 homocitrulline-urine-mg/24_h	
 homocitrulline-urine-μmol/24_h	
 troponin_T-serum-μg/L	6598-7
+zinc-serum-μg/dL	5763-8
+zinc-serum-μmol/L	5763-8
+xylene-blood-mg/L	
+xylene-blood-μmol/L	
+vitamin_k-serum-ng/mL	9622-2
+vitamin_k-serum-nmol/L	58793-1
+vitamin_e-serum-mg/L	1823-4
+vitamin_e-serum-μmol/L	14590-4

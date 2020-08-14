@@ -1,6 +1,8 @@
 # BRRR
 Biomedical Reference Range Resources
 
+![BRRR Project Logo - a cloud with snowflakes](https://raw.githubusercontent.com/caufieldjh/brrr/master/logo.png)
+
 This project is a work in progress intended to support comparison of diagnostic values extracted from clinical reports with reference values and corresponding disease phenotypes.
 
 Files are as follows:

@@ -30,17 +30,17 @@ calcium-urine-mmol/24_h
 cell_count-cerebrospinal_fluid-count/mm3	19075-1
 cell_count-cerebrospinal_fluid-count/L	19075-1
 chloride-serum-mEq/L	
-chloride-serum-mmol/L	
+chloride-serum-mmol/L	2075-0
 chloride-cerebrospinal_fluid-mEq/L	
-chloride-cerebrospinal_fluid-mmol/L	
+chloride-cerebrospinal_fluid-mmol/L	2070-1
 chloride-sweat-mmol/L	2077-6
 cholesterol-serum-mg/dL	2093-3
 cholesterol-serum-mmol/L	14647-2
-cortisol-serum-0800_h-μg/dL	
-cortisol-serum-1600_h-μg/dL	
+cortisol-serum-0800_h-μg/dL	48104-4
+cortisol-serum-1600_h-μg/dL	21226-6
 cortisol-serum-2000_h-percent	
-cortisol-serum-0800_h-nmol/L	
-cortisol-serum-1600_h-nmol/L	
+cortisol-serum-0800_h-nmol/L	45050-2
+cortisol-serum-1600_h-nmol/L	45049-4
 creatine_kinase-serum-male-U/L	2157-6
 creatine_kinase-serum-female-U/L	2157-6
 creatinine-serum-mg/dL	
@@ -82,8 +82,8 @@ follicle-stimulating_hormone-serum/plasma-premenopause-female-U/L
 follicle-stimulating_hormone-serum/plasma-midcycle_peak-female-U/L	
 follicle-stimulating_hormone-serum/plasma-postmenopause-female-U/L	
 gamma_globulin-cerebrospinal_fluid-percent	
-globulin-serum-g/dL	
-globulin-serum-g/L	
+globulin-serum-g/dL	2336-6
+globulin-serum-g/L	10834-0
 glucose-serum-fasting-mg/dL	
 glucose-serum-fasting-mmol/L	
 glucose-serum-2h_postprandial-mg/dL	
@@ -151,8 +151,8 @@ plasma_volume-male-mL/kg
 plasma_volume-male-L/kg	
 plasma_volume-female-mL/kg	
 plasma_volume-female-L/kg	
-platelet_count-blood-count/mm3	
-platelet_count-blood-count/L	
+platelet_count-blood-count/mm3	26515-7
+platelet_count-blood-count/L	777-3
 PO2-arterial_blood-room_air-mm_Hg	
 PO2-arterial_blood-room_air-kPa	
 potassium-serum-mEq/L	
@@ -188,8 +188,8 @@ triglycerides-serum-mmol/L
 triiodothyronine-serum-ng/dL	
 triiodothyronine-serum-nmol/L	
 triiodothyronine-resin_uptake-percent	
-urea_nitrogen-serum-mg/dL	
-urea_nitrogen-serum-mmol/L	
+urea_nitrogen-serum-mg/dL	3094-0
+urea_nitrogen-serum-mmol/L	14937-7
 uric_acid-serum-mg/dL	3084-1
 uric_acid-serum-mmol/L	14933-6
 troponin_I-serum-ng/mL	10839-9
@@ -368,14 +368,14 @@ prostate_specific_antigen-serum-50_to_59_years_old-male-ng/mL	83112-3
 prostate_specific_antigen-serum-60_to_69_years_old-male-ng/mL	83112-3
 prostate_specific_antigen-serum-70_to_79_years_old-male-ng/mL	83112-3
 prostate_specific_antigen-serum-80_years_old_or_older-male-ng/mL	83112-3
-ethanolamine-urine-24_h-mg/dL	
-ethanolamine-urine-24_h-μmol/L	
-ethanolamine-cerebrospinal_fluid-mg/dL	
-ethanolamine-cerebrospinal_fluid-μmol/L	
+ethanolamine-urine-24_h-mg/dL	6881-7
+ethanolamine-urine-24_h-μmol/L	25910-1
+ethanolamine-cerebrospinal_fluid-mg/dL	13613-5
+ethanolamine-cerebrospinal_fluid-μmol/L	26593-4
 erythropoietin-serum-mU/mL	
-dioxane-plasma-mg/L	
+dioxane-plasma-mg/L	12997-3
 dioxane-plasma-μmol/L	
-dioxane-urine-mg/L	
+dioxane-urine-mg/L	16292-5
 dioxane-urine-μmol/L	
 d-dimer-plasma-μg/mL	48067-3
 cyanide-serum-mg/L	5635-8
@@ -394,7 +394,7 @@ HDL_cholesterol-serum-male-mg/dL	14646-4
 HDL_cholesterol-serum-female-mg/dL	14646-4
 blood_urea_nitrogen-serum-male-mg/dL	3094-0
 blood_urea_nitrogen-serum-female-mg/dL	3094-0
-tropomyosin-serum-μg/L	
+tropomyosin-serum-μg/L	7305-5
 left_ventricular_ejection_fraction--percent	10230-1
 homocitrulline-urine-mg/24_h	
 homocitrulline-urine-μmol/24_h	
@@ -407,3 +407,23 @@ vitamin_k-serum-ng/mL	9622-2
 vitamin_k-serum-nmol/L	58793-1
 vitamin_e-serum-mg/L	1823-4
 vitamin_e-serum-μmol/L	14590-4
+acetoacetate-serum-mg/dL	1705-3
+acetoacetate-serum-mmol/L	35867-1
+acetone-serum-mg/dL	5568-1
+acetone-serum-mmol/L	14582-1
+alpha-fetoprotein-serum-in_pregnancy_(14_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(15_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(16_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(17_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(18_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(19_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(20_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(21_wks)-female-ng/mL	1834-1
+alpha-fetoprotein-serum-in_pregnancy_(14_wks)-female-μg/L	19177-5
+alpha-fetoprotein-serum-in_pregnancy_(15_wks)-female-μg/L	19177-5
+alpha-fetoprotein-serum-in_pregnancy_(16_wks)-female-μg/L	19177-5
+alpha-fetoprotein-serum-in_pregnancy_(17_wks)-female-μg/L	19177-5
+alpha-fetoprotein-serum-in_pregnancy_(18_wks)-female-μg/L	19177-5
+alpha-fetoprotein-serum-in_pregnancy_(19_wks)-female-μg/L	19177-5
+alpha-fetoprotein-serum-in_pregnancy_(20_wks)-female-μg/L	19177-5
+alpha-fetoprotein-serum-in_pregnancy_(21_wks)-female-μg/L	19177-5

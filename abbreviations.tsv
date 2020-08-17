@@ -1,7 +1,7 @@
 Measurement	Abbreviations
 17-hydroxycorticosteroids	17-OHCS
 17-ketosteroids	17-KS, 17KS
-alanine aminotransferase	ALT
+alanine aminotransferase	ALT, transaminase
 albumin	AL, ALB
 alkaline phosphatase	AP, ALP, ALKP, Alk Phos
 amylase	AMS
@@ -50,16 +50,16 @@ lactate dehydrogenase	LD, LDH
 leukocyte count	
 lipoprotein (a)	Lpa, Lp(a)
 lutenizing hormone	LH
-lymphocytes	
+lymphocytes	Lymph, Lymphs
 magnesium	Mg2+, Mg
 mean blood pressure	BP, MBP
-mean corpuscular hemoglobin	
-mean corpuscular hemoglobin concentration	
+mean corpuscular hemoglobin	MCH
+mean corpuscular hemoglobin concentration	MCHC
 mean corpuscular volume	MCV
-monocytes	Mono
-myoglobin	
+monocytes	Mono, Monos
+myoglobin	MB
 N-terminal pro b-type natriuretic peptide	NT-proBNP
-osmolarity	
+osmolarity	Osmo
 oxalate	Oxal
 parathyroid hormone	PTH
 partial thromboplastin time	PTT
@@ -92,15 +92,15 @@ uric acid	Urate
 zinc protoporphyrin	ZP, ZPP, FEP
 prostate specific antigen	PSA
 ethanolamine	EA
-erythropoietin	
-d-dimer	
+erythropoietin	EPO
+d-dimer	FDP
 cyanide	
 aortic root diameter	AoR
 mid-descending aorta diameter	AoD
 diaphragmatic aorta diameter	
 non-HDL cholesterol	
-LDL cholesterol	
-HDL cholesterol	
+LDL cholesterol	LDL
+HDL cholesterol	HDL
 blood urea nitrogen	BUN
 tropomyosin	
 left ventricular ejection fraction	LVEF, EF
@@ -110,3 +110,6 @@ zinc	Zn
 xylene	
 vitamin k	VK, VITK
 vitamin e	α-TE
+acetoacetate	
+acetone	
+alpha-fetoprotein	AFP

@@ -407,3 +407,23 @@ vitamin_k-serum-ng/mL	vitamin k	serum		N/A	ng/mL	0.1	HP:0011892	2.2		Tietz
 vitamin_k-serum-nmol/L	vitamin k	serum		N/A	nmol/L	0.22	HP:0011892	4.88		Tietz
 vitamin_e-serum-mg/L	vitamin e	serum		N/A	mg/L	5.5	HP:0100513	18		Tietz
 vitamin_e-serum-μmol/L	vitamin e	serum		N/A	μmol/L	12	HP:0100513	42		Tietz
+acetoacetate-serum-mg/dL	acetoacetate	serum		N/A	mg/dL	N/A		1	HP:0001946	Tietz
+acetoacetate-serum-mmol/L	acetoacetate	serum		N/A	mmol/L	N/A		0.1	HP:0001946	Tietz
+acetone-serum-mg/dL	acetone	serum		N/A	mg/dL	N/A		10	HP:0001993	Tietz
+acetone-serum-mmol/L	acetone	serum		N/A	mmol/L	N/A		1.72	HP:0001993	Tietz
+alpha-fetoprotein-serum-in_pregnancy_(14_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (14 wks)		female	ng/mL	N/A		51.2		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(15_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (15 wks)		female	ng/mL	N/A		59.8		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(16_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (16 wks)		female	ng/mL	N/A		69.6		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(17_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (17 wks)		female	ng/mL	N/A		81.2		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(18_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (18 wks)		female	ng/mL	N/A		94.6		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(19_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (19 wks)		female	ng/mL	N/A		110.2		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(20_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (20 wks)		female	ng/mL	N/A		128.6		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(21_wks)-female-ng/mL	alpha-fetoprotein	serum, in pregnancy (21 wks)		female	ng/mL	N/A		149.8		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(14_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (14 wks)		female	μg/L	N/A		51.2		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(15_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (15 wks)		female	μg/L	N/A		59.8		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(16_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (16 wks)		female	μg/L	N/A		69.6		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(17_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (17 wks)		female	μg/L	N/A		81.2		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(18_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (18 wks)		female	μg/L	N/A		94.6		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(19_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (19 wks)		female	μg/L	N/A		110.2		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(20_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (20 wks)		female	μg/L	N/A		128.6		Tietz
+alpha-fetoprotein-serum-in_pregnancy_(21_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (21 wks)		female	μg/L	N/A		149.8		Tietz

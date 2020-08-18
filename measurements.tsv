@@ -427,3 +427,10 @@ alpha-fetoprotein-serum-in_pregnancy_(18_wks)-female-μg/L	alpha-fetoprotein	ser
 alpha-fetoprotein-serum-in_pregnancy_(19_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (19 wks)		female	μg/L	N/A		110.2		Tietz
 alpha-fetoprotein-serum-in_pregnancy_(20_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (20 wks)		female	μg/L	N/A		128.6		Tietz
 alpha-fetoprotein-serum-in_pregnancy_(21_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (21 wks)		female	μg/L	N/A		149.8		Tietz
+fibronectin-serum-μg/mL	fibronectin	serum		N/A	μg/mL	200		400		Tietz
+folate-serum-ng/mL	folate	serum		N/A	ng/mL	5		16		Tietz
+folate-serum-nmol/L	folate	serum		N/A	nmol/L	11		36		Tietz
+voltage-gated_neuronal_potassium_channel_antibodies-serum-pmol/L	voltage-gated neuronal potassium channel antibodies	serum		N/A	pmol/L	N/A		20		Tietz
+neuronal_ganglionic_acetylcholine_binding_antibodies-serum-pmol/L	neuronal ganglionic acetylcholine binding antibodies	serum		N/A	pmol/L	N/A		20		Tietz
+occult_blood-feces-random-mg/g	occult blood	feces, random		N/A	mg/g	N/A		2		Tietz
+occult_blood-feces-random-qualitative	occult blood	feces, random		N/A	qualitative	negative		positive		Tietz

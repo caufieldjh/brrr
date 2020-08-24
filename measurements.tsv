@@ -434,3 +434,7 @@ voltage-gated_neuronal_potassium_channel_antibodies-serum-pmol/L	voltage-gated n
 neuronal_ganglionic_acetylcholine_binding_antibodies-serum-pmol/L	neuronal ganglionic acetylcholine binding antibodies	serum		N/A	pmol/L	N/A		20		Tietz
 occult_blood-feces-random-mg/g	occult blood	feces, random		N/A	mg/g	N/A		2		Tietz
 occult_blood-feces-random-qualitative	occult blood	feces, random		N/A	qualitative	negative		positive		Tietz
+heart_ceramides-plasma-risk_score	heart ceramides	plasma		N/A	risk score	0		7		Mayo Clinic Labs
+heart_ceramides-16:0-plasma-μmol/L	heart ceramides	16:0, plasma		N/A	μmol/L	0.19		0.36		Mayo Clinic Labs
+heart_ceramides-18:0-plasma-μmol/L	heart ceramides	18:0, plasma		N/A	μmol/L	0.05		0.14		Mayo Clinic Labs
+heart_ceramides-24:1-plasma-μmol/L	heart ceramides	24:1, plasma		N/A	μmol/L	0.65		1.65		Mayo Clinic Labs

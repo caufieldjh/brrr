@@ -185,9 +185,9 @@ thyroxine-serum-μg/dL	3026-2
 thyroxine-serum-nmol/L	14921-1
 triglycerides-serum-mg/dL	
 triglycerides-serum-mmol/L	
-triiodothyronine-serum-ng/dL	
-triiodothyronine-serum-nmol/L	
-triiodothyronine-resin_uptake-percent	
+triiodothyronine-serum-ng/dL	3053-6
+triiodothyronine-serum-nmol/L	14930-2
+triiodothyronine-resin_uptake-percent	3050-2
 urea_nitrogen-serum-mg/dL	3094-0
 urea_nitrogen-serum-mmol/L	14937-7
 uric_acid-serum-mg/dL	3084-1
@@ -434,3 +434,7 @@ voltage-gated_neuronal_potassium_channel_antibodies-serum-pmol/L	41871-5
 neuronal_ganglionic_acetylcholine_binding_antibodies-serum-pmol/L	
 occult_blood-feces-random-mg/g	27396-1
 occult_blood-feces-random-qualitative	2335-8
+heart_ceramides-plasma-risk_score	93876-1
+heart_ceramides-16:0-plasma-μmol/L	93882-9
+heart_ceramides-18:0-plasma-μmol/L	93881-1
+heart_ceramides-24:1-plasma-μmol/L	93880-3

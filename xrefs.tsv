@@ -103,8 +103,8 @@ hemoglobin-blood-female-mmol/L	59260-0
 hemoglobin-plasma-mg/dL	721-1
 hemoglobin-plasma-mmol/L	25433-4
 hemoglobin_A1C-blood-percent	4548-4
-IgA-serum-mg/dL	
-IgA-serum-g/L	
+IgA-serum-mg/dL	2458-8
+IgA-serum-g/L	2458-8
 IgE-serum-IU/mL	
 IgE-serum-kIU/L	
 IgG-serum-mg/dL	
@@ -438,3 +438,8 @@ heart_ceramides-plasma-risk_score	93876-1
 heart_ceramides-16:0-plasma-μmol/L	93882-9
 heart_ceramides-18:0-plasma-μmol/L	93881-1
 heart_ceramides-24:1-plasma-μmol/L	93880-3
+calcitonin-serum-male-pg/mL	1992-7
+calcitonin-serum-female-pg/mL	1992-7
+fibrinogen-plasma-mg/dL	
+haptoglobin-serum-mg/dL	4542-7
+rheumatoid_factor-serum-IU/mL	11572-5

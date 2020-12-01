@@ -523,7 +523,7 @@ carmine_dye/red_dye_cochineal_IgE-serum-kU/L	carmine dye/red dye cochineal IgE	s
 fusarium_oxysporum_IgE-serum-kU/L	fusarium oxysporum IgE	serum		N/A	kU/L	N/A	N/A	0.35		Mayo Clinic Labs
 epidermophyton_floccosum_IgE-serum-kU/L	epidermophyton floccosum IgE	serum		N/A	kU/L	N/A	N/A	0.35	HP:0410334	Mayo Clinic Labs
 horseradish_IgE-serum-kU/L	horseradish IgE	serum		N/A	kU/L	N/A	N/A	0.35	HP:0410332	Mayo Clinic Labs
-a1_antigen_subtype-whole_blood-qualitative	a1 antigen subtype	whole blood		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+a1_antigen_subtype-whole_blood-qualitative	a1 antigen subtype	blood		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
 acanthamoeba species-ocular-qualitative	acanthamoeba species	ocular		N/A	qualitative	negative	N/A	positive	HP:0032101	Mayo Clinic Labs
 mycobacterium-bronchoalveolar lavage fluid-qualitative	mycobacterium	bronchoalveolar lavage fluid		N/A	qualitative	negative	N/A	positive	HP:0032262	Mayo Clinic Labs
 adenovirus-bronchoalveolar lavage fluid, qrtpcr-copies/mL	adenovirus	bronchoalveolar lavage fluid, qrtpcr		N/A	copies/mL	N/A	N/A	500	HP:0031694	Mayo Clinic Labs
@@ -539,3 +539,9 @@ pinworm-perianal-qualitative	pinworm	perianal		N/A	qualitative	negative	N/A	posi
 rotavirus_antigen-feces-qualitative	rotavirus antigen	feces		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
 serotonin-serum-ng/ml	serotonin	serum		N/A	ng/ml	N/A	N/A	230	HP:0100570	Mayo Clinic Labs
 sulfamethoxazole-serum-μg/mL	sulfamethoxazole	serum		N/A	μg/mL	N/A	N/A	125	N/A	Mayo Clinic Labs
+retinol-binding_protein-serum-mg/dL	retinol-binding protein	serum		N/A	mg/dL	1.5	HP:0031032	6.7	HP:0031031	Mayo Clinic Labs
+alpha-1-antitrypsin-feces-mg/dl	alpha-1-antitrypsin	feces		N/A	mg/dl	N/A	N/A	54	HP:0002243	Mayo Clinic Labs
+alpha-fetoprotein-amniotic fluid-multiples of median	alpha-fetoprotein	amniotic fluid		N/A	multiples of median	N/A	N/A	2	HP:0045005	Mayo Clinic Labs
+anti-th_to_antibodies-serum-qualitative	anti-th/to antibodies	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+beryllium-blood-ng/ml	beryllium	blood		N/A	ng/ml	N/A	N/A	1	N/A	Mayo Clinic Labs
+beta-2_microglobulin-cerebrospinal fluid-μg/L	beta-2 microglobulin	cerebrospinal fluid		N/A	μg/L	0.7	HP:0025347	1.8	HP:0025346	Mayo Clinic Labs

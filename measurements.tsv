@@ -427,7 +427,7 @@ alpha-fetoprotein-serum-in_pregnancy_(18_wks)-female-μg/L	alpha-fetoprotein	ser
 alpha-fetoprotein-serum-in_pregnancy_(19_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (19 wks)		female	μg/L	N/A	N/A	110.2		Tietz
 alpha-fetoprotein-serum-in_pregnancy_(20_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (20 wks)		female	μg/L	N/A	N/A	128.6		Tietz
 alpha-fetoprotein-serum-in_pregnancy_(21_wks)-female-μg/L	alpha-fetoprotein	serum, in pregnancy (21 wks)		female	μg/L	N/A	N/A	149.8		Tietz
-fibronectin-serum-μg/mL	fibronectin	serum		N/A	μg/mL	200		400		Tietz
+fibronectin-serum-μg/mL	fibronectin	serum		N/A	μg/mL	200	HP:0032463	400	N/A	Tietz
 folate-serum-ng/mL	folate	serum		N/A	ng/mL	5		16		Tietz
 folate-serum-nmol/L	folate	serum		N/A	nmol/L	11		36		Tietz
 voltage-gated_neuronal_potassium_channel_antibodies-serum-pmol/L	voltage-gated neuronal potassium channel antibodies	serum		N/A	pmol/L	N/A		20		Tietz
@@ -545,3 +545,8 @@ alpha-fetoprotein-amniotic fluid-multiples of median	alpha-fetoprotein	amniotic 
 anti-th_to_antibodies-serum-qualitative	anti-th/to antibodies	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
 beryllium-blood-ng/ml	beryllium	blood		N/A	ng/ml	N/A	N/A	1	N/A	Mayo Clinic Labs
 beta-2_microglobulin-cerebrospinal fluid-μg/L	beta-2 microglobulin	cerebrospinal fluid		N/A	μg/L	0.7	HP:0025347	1.8	HP:0025346	Mayo Clinic Labs
+brazil_nut_component_rBer_e_1-serum-kU/L	brazil nut component rBer e 1	serum		N/A	kU/L	0	N/A	0.1	HP:0410331	Mayo Clinic Labs
+cashew_component_rAna_o_3-serum-kU/L	cashew component rAna o 3	serum		N/A	kU/L	0	N/A	0.1	HP:0410331	Mayo Clinic Labs
+histamine-plasma-ng/mL	histamine	plasma		N/A	ng/mL	N/A	N/A	1	N/A	Mayo Clinic Labs
+porphyrins-plasma-μg/dL	porphyrins	plasma		N/A	μg/dL	N/A	N/A	1	HP:0010472	Mayo Clinic Labs
+TNF-alpha-serum-pg/mL	TNF-alpha	serum		N/A	pg/mL	N/A	N/A	5.6	HP:0011112	Mayo Clinic Labs

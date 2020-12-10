@@ -550,3 +550,6 @@ cashew_component_rAna_o_3-serum-kU/L	cashew component rAna o 3	serum		N/A	kU/L	0
 histamine-plasma-ng/mL	histamine	plasma		N/A	ng/mL	N/A	N/A	1	N/A	Mayo Clinic Labs
 porphyrins-plasma-μg/dL	porphyrins	plasma		N/A	μg/dL	N/A	N/A	1	HP:0010472	Mayo Clinic Labs
 TNF-alpha-serum-pg/mL	TNF-alpha	serum		N/A	pg/mL	N/A	N/A	5.6	HP:0011112	Mayo Clinic Labs
+syphillis_total_antibody-serum-qualitative	syphillis total antibody	serum		N/A	qualitative	negative	N/A	reactive	N/A	Mayo Clinic Labs
+cold_agglutinin_titer-serum-ratio	cold agglutinin titer	serum		N/A	ratio	N/A	N/A	1:512	N/A	Mayo Clinic Labs
+dengue_virus_nucleic_acid-serum-qualitative	dengue virus nucleic acid	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs

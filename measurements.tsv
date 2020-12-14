@@ -563,3 +563,13 @@ human_chorionic_gonadotropin-serum_in_pregnancy-IU/L	human chorionic gonadotropi
 beta-human_chorionic_gonadotropin-cerebrospinal_fluid-IU/L	beta-human chorionic gonadotropin	cerebrospinal fluid		N/A	IU/L	N/A	N/A	1	N/A	Mayo Clinic Labs
 ethylene_glycol-serum-mg/dL	ethylene glycol	serum		N/A	mg/dL	N/A	N/A	20	N/A	Mayo Clinic Labs
 hemoglobin_S-blood-qualitative	hemoglobin S	blood		N/A	qualitative	negative	N/A	positive	HP:0001877	Mayo Clinic Labs
+beta-galactosidase_leukocytes-blood-nmol/min/mg_protein	beta-galactosidase, leukocytes	blood		male	nmol/min/mg protein	10.32	HP:0001071	N/A	N/A	Mayo Clinic Labs
+beta-hydroxybutyrate-serum-mmol/L	beta-hydroxybutyrate	serum		N/A	mmol/L	N/A	N/A	0.4	HP:0001993	Mayo Clinic Labs
+BK_virus_nucleic acid-plasma-qualitative	BK virus nucleic acid	plasma		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+BK_virus_nucleic acid-urine-qualitative	BK virus nucleic acid	urine		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+blastomyces_antibody-serum-qualitative	blastomyces antibody	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+borrelia_miyamotoi_nucleic_acid-blood-qualitative	borrelia miyamotoi nucleic acid	blood		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+borrelia_miyamotoi_nucleic_acid-cerebrospinal fluid-qualitative	borrelia miyamotoi nucleic acid	cerebrospinal fluid		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+fluoride-plasma-μmol/L	fluoride	plasma		N/A	μmol/L	N/A	N/A	4.1	N/A	Mayo Clinic Labs
+galactose-urine-mg/dL	galactose	urine		N/A	mg/dL	N/A	N/A	30	HP:0012024	Mayo Clinic Labs
+lipase-urine-U/L	lipase	urine		N/A	U/L	N/A	N/A	4	HP:0032932	Mayo Clinic Labs

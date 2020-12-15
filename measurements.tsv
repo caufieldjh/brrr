@@ -573,3 +573,13 @@ borrelia_miyamotoi_nucleic_acid-cerebrospinal fluid-qualitative	borrelia miyamot
 fluoride-plasma-μmol/L	fluoride	plasma		N/A	μmol/L	N/A	N/A	4.1	N/A	Mayo Clinic Labs
 galactose-urine-mg/dL	galactose	urine		N/A	mg/dL	N/A	N/A	30	HP:0012024	Mayo Clinic Labs
 lipase-urine-U/L	lipase	urine		N/A	U/L	N/A	N/A	4	HP:0032932	Mayo Clinic Labs
+lactoferrin-feces-qualitative	lactoferrin	feces		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+Donath-Landsteiner-serum-qualitative	Donath-Landsteiner	serum		N/A	qualitative	negative	N/A	positive	HP:0001890	Mayo Clinic Labs
+trimethoprim-serum-μg/mL	trimethoprim	serum		N/A	μg/mL	N/A	N/A	2	N/A	Mayo Clinic Labs
+copper-liver_tissue-μg/g_dry_weight	copper	liver tissue		N/A	μg/g dry weight	N/A	N/A	50	HP:0025321	Mayo Clinic Labs
+vascular_endothelial_growth_factor-plasma-pg/mL	vascular endothelial growth factor	plasma		N/A	pg/mL	N/A	N/A	96.2	HP:0031052	Mayo Clinic Labs
+human_anti-mouse_antibody-serum-ng/mL	human anti-mouse antibody	serum		N/A	ng/mL	N/A	N/A	74	N/A	Mayo Clinic Labs
+tryptase-serum-ng/mL	tryptase	serum		N/A	ng/mL	N/A	N/A	11.5	HP:0031901	Mayo Clinic Labs
+chromatin_antibodies-serum-qualitative	chromatin antibodies	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+des-gamma-carboxy_prothrombin-serum-ng/mL	des-gamma-carboxy prothrombin	serum		N/A	ng/mL	N/A	N/A	7.5	N/A	Mayo Clinic Labs
+gadolinium-serum-ng/mL	gadolinium	serum		N/A	ng/mL	N/A	N/A	5	N/A	Mayo Clinic Labs

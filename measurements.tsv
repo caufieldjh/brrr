@@ -583,3 +583,13 @@ tryptase-serum-ng/mL	tryptase	serum		N/A	ng/mL	N/A	N/A	11.5	HP:0031901	Mayo Clin
 chromatin_antibodies-serum-qualitative	chromatin antibodies	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
 des-gamma-carboxy_prothrombin-serum-ng/mL	des-gamma-carboxy prothrombin	serum		N/A	ng/mL	N/A	N/A	7.5	N/A	Mayo Clinic Labs
 gadolinium-serum-ng/mL	gadolinium	serum		N/A	ng/mL	N/A	N/A	5	N/A	Mayo Clinic Labs
+C4_acylcarnitine-urine-millimoles/mole_creatinine	C4 acylcarnitine	urine		N/A	millimoles/mole creatinine	N/A	N/A	3	HP:0500170	Mayo Clinic Labs
+carbohydrate_antigen_19-9-serum-U/mL	carbohydrate antigen 19-9	serum		N/A	U/mL	N/A	N/A	35	N/A	Mayo Clinic Labs
+C5-DC_acylcarnitine-urine-millimoles/mole creatine	C5-DC acylcarnitine	urine		N/A	millimoles/mole creatine	N/A	N/A	1.54	HP:0500170	Mayo Clinic Labs
+C5-OH_acylcarnitine-urine-millimoles/mole creatine	C5-OH acylcarnitine	urine		N/A	millimoles/mole creatine	N/A	N/A	2.93	HP:0500170	Mayo Clinic Labs
+leukotriene_E4-urine-pg/mg_creatinine	leukotriene E4	urine		N/A	pg/mg creatinine	N/A	N/A	104	N/A	Mayo Clinic Labs
+fentanyl-urine-ng/mL	fentanyl	urine		N/A	ng/mL	N/A	N/A	0.2	N/A	Mayo Clinic Labs
+hantavirus_antibodies-serum-qualitative	hantavirus antibodies	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+complement-serum-U/mL	complement	serum		N/A	U/mL	30	HP:0004431	75	N/A	Mayo Clinic Labs
+intrinsic_factor_blocking_antibody-serum-qualitative	intrinsic factor blocking antibody	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+chromium-urine, 24 h-μg	chromium	urine, 24 h		N/A	μg	N/A	N/A	7.9	N/A	Mayo Clinic Labs

@@ -593,3 +593,15 @@ hantavirus_antibodies-serum-qualitative	hantavirus antibodies	serum		N/A	qualita
 complement-serum-U/mL	complement	serum		N/A	U/mL	30	HP:0004431	75	N/A	Mayo Clinic Labs
 intrinsic_factor_blocking_antibody-serum-qualitative	intrinsic factor blocking antibody	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
 chromium-urine, 24 h-μg	chromium	urine, 24 h		N/A	μg	N/A	N/A	7.9	N/A	Mayo Clinic Labs
+globotriaosylsphingosine-serum-ng/mL	globotriaosylsphingosine	serum		N/A	ng/mL	N/A	N/A	1	HP:0032657	Mayo Clinic Labs
+globotriaosylsphingosine-blood-nmol/ml	globotriaosylsphingosine	blood		N/A	nmol/ml	N/A	N/A	0.034	HP:0032657	Mayo Clinic Labs
+dabigatran-plasma-ng/mL	dabigatran	plasma		N/A	ng/mL	N/A	N/A	20	N/A	Mayo Clinic Labs
+epstein-barr virus nucleic acid-sputum-qualitative	epstein-barr virus nucleic acid	sputum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+epstein-barr virus nucleic acid-bronchoalveolar lavage-qualitative	epstein-barr virus nucleic acid	bronchoalveolar lavage		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+epstein-barr virus nucleic acid-upper respiratory swab-qualitative	epstein-barr virus nucleic acid	upper respiratory swab		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+glucopsychosine-blood-nmol/ml	glucopsychosine	blood		N/A	nmol/ml	N/A	N/A	0.04	N/A	Mayo Clinic Labs
+Protein Zero antibodies-serum-qualitative	Protein Zero antibodies	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+prostatic acid phosphatase-serum-ng/mL	prostatic acid phosphatase	serum		N/A	ng/mL	N/A	N/A	2.1	N/A	Mayo Clinic Labs
+west nile virus nucleic acid-serum-qualitative	west nile virus nucleic acid	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+collapsin response-mediator protein-5-IgG-serum-qualitative	collapsin response-mediator protein-5-IgG	serum		N/A	qualitative	negative	N/A	positive	N/A	Mayo Clinic Labs
+myelin oligodendrocyte glycoprotein IgG-serum-qualitative	myelin oligodendrocyte glycoprotein IgG	serum		N/A	qualitative	negative	N/A	positive	HP:0032492	Mayo Clinic Labs

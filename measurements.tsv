@@ -201,6 +201,8 @@ collapsin_response-mediator_protein-5-IgG-serum-qualitative	collapsin response-m
 complement-serum-U/mL	complement	serum		N/A	U/mL	30	HP:0004431	75	N/A	Mayo Clinic Labs
 copper-liver_tissue-μg/g_dry_weight	copper	liver tissue		N/A	μg/g dry weight	N/A	N/A	50	HP:0025321	Mayo Clinic Labs
 corn_smut_IgE-serum-kU/L	corn smut IgE	serum		N/A	kU/L	N/A	N/A	0.35	HP:0410334	Mayo Clinic Labs
+corrected_QT_interval-female-ms	corrected QT interval	N/A		female	ms	N/A	N/A	480	HP:0001657	Schwartz et al. (1993)
+corrected_QT_interval-male-ms	corrected QT interval	N/A		male	ms	N/A	N/A	470	HP:0001657	Schwartz et al. (1993)
 cortisol-serum-0800_h-nmol/L	cortisol	serum, 0800 h		N/A	nmol/L	138		635		USMLE Step 1
 cortisol-serum-0800_h-μg/dL	cortisol	serum, 0800 h		N/A	μg/dL	5		23		USMLE Step 1
 cortisol-serum-1600_h-nmol/L	cortisol	serum, 1600 h		N/A	nmol/L	82		413		USMLE Step 1

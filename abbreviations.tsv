@@ -1,14 +1,14 @@
 Measurement	Abbreviations
 17-hydroxycorticosteroids	17-OHCS
-17-ketosteroids	17-KS, 17KS
-alanine aminotransferase	ALT, transaminase
-albumin	AL, ALB
-alkaline phosphatase	AP, ALP, ALKP, Alk Phos
+17-ketosteroids	"17-KS, 17KS"
+alanine aminotransferase	"ALT, transaminase"
+albumin	"AL, ALB"
+alkaline phosphatase	"AP, ALP, ALKP, Alk Phos"
 amylase	AMS
 apolipoprotein B	ApoB
 aspartate aminotransferase	AST
-bands	N-bands, PMN, PNM
-basophils	BASO, BAS
+bands	"N-bands, PMN, PNM"
+basophils	"BASO, BAS"
 bicarbonate	HCO3-
 bilirubin	Bil
 bleeding time	BT
@@ -16,47 +16,38 @@ body height	height
 body mass index	BMI
 body temperature	BT
 body weight	weight
-brain natriuretic peptide	BNP, B-Type Natriuretic Peptide
-calcium	Ca2+, Ca
+brain natriuretic peptide	"BNP, B-Type Natriuretic Peptide"
+calcium	"Ca2+, Ca"
 cell count	CBC
 chloride	Cl-
 cholesterol	CHOL
-cortisol	
 creatine kinase	CK
 creatinine	Cr
-creatinine clearance	
 diastolic blood pressure	DBP
 eosinophils	EOS
-erythrocyte count	
 erythrocyte sedimentation rate	ESR
-estriol	
-ferritin	
 follicle-stimulating hormone	FSH
-gamma globulin	
-globulin	
 glucose	FBS
-growth hormone	
 heart rate	HR
-hematocrit	Hct, Crit, HCT, PCV
+hematocrit	"Hct, Crit, HCT, PCV"
 hemoglobin	HGB
-hemoglobin A1C	HbA1c, A1c
-high-sensitivity C-reactive protein	hs-CRP, hsCRP, cardiac CRP
+hemoglobin A1C	"HbA1c, A1c"
+high-sensitivity C-reactive protein	"hs-CRP, hsCRP, cardiac CRP"
 IgA	IgA
 IgE	IgE
 IgG	IgG
 IgM	IgM
 iron	Fe
-lactate dehydrogenase	LD, LDH
-leukocyte count	
-lipoprotein (a)	Lpa, Lp(a)
+lactate dehydrogenase	"LD, LDH"
+lipoprotein (a)	"Lpa, Lp(a)"
 lutenizing hormone	LH
-lymphocytes	Lymph, Lymphs
-magnesium	Mg2+, Mg
-mean blood pressure	BP, MBP
+lymphocytes	"Lymph, Lymphs"
+magnesium	"Mg2+, Mg"
+mean blood pressure	"BP, MBP"
 mean corpuscular hemoglobin	MCH
 mean corpuscular hemoglobin concentration	MCHC
 mean corpuscular volume	MCV
-monocytes	Mono, Monos
+monocytes	"Mono, Monos"
 myoglobin	MB
 N-terminal pro b-type natriuretic peptide	NT-proBNP
 osmolarity	Osmo
@@ -66,60 +57,49 @@ partial thromboplastin time	PTT
 PCO2	PCO2
 pH	pH
 phosphorus	PO4
-plasma volume	
-platelet count	PLT, PLT Ct
+platelet count	"PLT, PLT Ct"
 PO2	PO2
 potassium	K+
-pressure	
-prolactin	hPRL, PRL
-proteins	
+prolactin	"hPRL, PRL"
 prothrombin time	PT
 red cell volume	MCV
-respiratory rate	RR, Resp
+respiratory rate	"RR, Resp"
 reticulocyte count	Retic
 segmented neutrophils	N-Seg
-sodium	Na+, Na, NA
+sodium	"Na+, Na, NA"
 systolic blood pressure	SBP
 thrombin time	TT
 thyroid-stimulating hormone	TSH
 thyroidal iodine uptake	123I
 thyroxine	T4
-triglycerides	Trig, TG, TAG
+triglycerides	"Trig, TG, TAG"
 triiodothyronine	T3
-troponin I	TnI, cTnI
+troponin I	"TnI, cTnI"
 urea nitrogen	BUN
 uric acid	Urate
-zinc protoporphyrin	ZP, ZPP, FEP
+zinc protoporphyrin	"ZP, ZPP, FEP"
 prostate specific antigen	PSA
 ethanolamine	EA
 erythropoietin	EPO
 d-dimer	FDP
-cyanide	
 aortic root diameter	AoR
 mid-descending aorta diameter	AoD
-diaphragmatic aorta diameter	
-non-HDL cholesterol	
 LDL cholesterol	LDL
 HDL cholesterol	HDL
 blood urea nitrogen	BUN
-tropomyosin	
-left ventricular ejection fraction	LVEF, EF
+left ventricular ejection fraction	"LVEF, EF"
 homocitrulline	Hcit
-troponin T	TnT, cTnT
+troponin T	"TnT, cTnT"
 zinc	Zn
-xylene	
-vitamin k	VK, VITK
-vitamin e	α-TE
-acetoacetate	
-acetone	
+vitamin k	"VK, VITK"
 alpha-fetoprotein	AFP
 fibronectin	FN
-folate	
 voltage-gated neuronal potassium channel antibodies	VGKC
 neuronal ganglionic acetylcholine binding antibodies	AChR
 occult blood	FOBT
-heart ceramides	ceramide, ceramides, ceram, cer
+heart ceramides	"ceramide, ceramides, ceram, cer"
 calcitonin	CT
-fibrinogen	FIB, factor I
+fibrinogen	"FIB, factor I"
 haptoglobin	HP
-rheumatoid factor	RA factor, RF
+rheumatoid factor	"RA factor, RF"
+corrected QT interval	QTc
